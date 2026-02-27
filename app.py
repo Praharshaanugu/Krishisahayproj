@@ -11,15 +11,15 @@ from dotenv import load_dotenv
 # ---------- Page Config ----------
 st.set_page_config(page_title="KrishiSahay 🌾", layout="centered")
 
-# ---------- API Key Setup (Cloud + Local Compatible) ----------
+# ---------- API Key Setup ----------
 try:
-    api_key = st.secrets["GEMINI_API_KEY"]  # Streamlit Cloud
+    api_key = st.secrets["GEMINI_API_KEY"]
 except:
-    load_dotenv()  # Local
+    load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
 
 if not api_key:
-    st.error("GEMINI_API_KEY not found. Configure secrets (Cloud) or .env file (Local).")
+    st.error("API Key not configured.")
     st.stop()
 
 client = genai.Client(api_key=api_key)
@@ -39,32 +39,44 @@ for category in chunk_base.iterdir():
             chunks = json.loads(json_file.read_text(encoding="utf-8"))
             all_chunks.extend(chunks)
 
-# ---------- UI ----------
-st.title("🌾 KrishiSahay")
-st.caption("AI Agricultural Field Assistant")
+# ---------- Language Dictionary ----------
+ui_text = {
+    "English": {
+        "title": "🌾 KrishiSahay",
+        "caption": "AI Agricultural Field Assistant",
+        "input": "Ask your farming question..."
+    },
+    "Hindi": {
+        "title": "🌾 कृषि सहायक",
+        "caption": "एआई कृषि सहायक",
+        "input": "अपना कृषि प्रश्न पूछें..."
+    },
+    "Telugu": {
+        "title": "🌾 కృషి సహాయ",
+        "caption": "ఎఐ వ్యవసాయ సహాయకుడు",
+        "input": "మీ వ్యవసాయ ప్రశ్న అడగండి..."
+    }
+}
 
+# ---------- Language Selection ----------
 language = st.selectbox(
-    "Select Language",
+    "Select Language / भाषा चुनें / భాషను ఎంచుకోండి",
     ["English", "Hindi", "Telugu"]
 )
 
+st.title(ui_text[language]["title"])
+st.caption(ui_text[language]["caption"])
+
 # ---------- Translation Function ----------
-def translate_text(text, target_language):
-    if target_language == "English":
+def translate_to_english(text):
+    if language == "English":
         return text
 
-    prompt = f"""
-Translate the following text into {target_language}.
-Return only the translated text.
-
-{text}
-"""
-
+    prompt = f"Translate the following into English:\n\n{text}"
     response = client.models.generate_content(
         model="gemini-3-flash-preview",
         contents=prompt
     )
-
     return response.text.strip()
 
 # ---------- Session Memory ----------
@@ -76,11 +88,10 @@ for msg in st.session_state.messages:
         st.write(msg["content"])
 
 # ---------- Chat Input ----------
-query = st.chat_input("Ask your farming question...")
+query = st.chat_input(ui_text[language]["input"])
 
 if query:
 
-    # Show user message
     st.session_state.messages.append({"role": "user", "content": query})
     with st.chat_message("user"):
         st.write(query)
@@ -88,25 +99,23 @@ if query:
     with st.chat_message("assistant"):
         with st.spinner("Thinking... 🌾"):
 
-            # 🔹 Step 1: Translate user query to English
-            internal_query = translate_text(query, "English")
+            # Step 1: Translate query to English internally
+            internal_query = translate_to_english(query)
 
-            # 🔹 Step 2: Embed translated query
+            # Step 2: Embed query
             query_embedding = embed_model.encode([internal_query]).astype("float32")
 
-            # 🔹 Step 3: Retrieve relevant chunks
+            # Step 3: Retrieve knowledge
             distances, indices = index.search(query_embedding, 3)
             retrieved_text = "\n\n".join([all_chunks[i] for i in indices[0]])
 
-            # 🔹 Step 4: Build grounded prompt
+            # Step 4: Generate answer directly in selected language
             prompt = f"""
 You are KrishiSahay, a practical agricultural advisor.
 
-Rules:
-- Short answer (max 6 lines)
-- Simple farmer-friendly language
-- Give practical actions
-- No technical jargon
+Answer in {language}.
+Keep response short (max 6 lines).
+Use simple farmer-friendly language.
 
 Use only this knowledge:
 {retrieved_text}
@@ -120,10 +129,7 @@ Farmer Question:
                 contents=prompt
             )
 
-            english_answer = response.text.strip()
-
-            # 🔹 Step 5: Translate back to selected language
-            final_answer = translate_text(english_answer, language)
+            final_answer = response.text.strip()
 
             st.write(final_answer)
 
