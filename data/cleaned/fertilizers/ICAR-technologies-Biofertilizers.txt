@@ -1,1 +1,1057 @@
-i Indian Council of Agricultural Research Krishi Bhavan, New Delhi 110 001Icar TechnologIes BIoferTIlIzers for sUsTaInaBle croP ProDUcTIonPrinted at: M/s. Royal Offset Printers, A-89/1, Naraina Industrial Area, Phase-I, New Delhi 110 028Printed: July, 2021 Citation: Saxena A.K., Kumar M., Chakdar H., Rajawat M.V .S., Dubey S.C. and Sharma T.R. 2021. ICAR Technologies: Biofertilizers for Sustainable Crop Production. Indian Council of Agricultural Research, New Delhi Conceived by: Dr. Trilochan Mohapatra, Secretary, Department of Agricultural Research and Education and Director General, Indian Council of Agricultural Research, Krishi Bhavan, New Delhi 110 001 Compiled by: Dr. Anil Kumar Saxena, Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Kushmaur, Mau 275 103 Edited by: A.K. Saxena, Kumar M., H. Chakdar, M.V .S. Rajawat, S.C. Dubey and T.R. Sharma Contributors: All the developers of biofertilizer technologies Secretarial Assistance: Mr. Siddharth Arora, Personal Assistant, ICAR-NBAIM Published by: Directorate of Knowledge Management in Agriculture, Indian Council of Agricultural Research, KAB-1, Pusa Campus, New Delhi 110 012.   2021, Indian Council of Agricultural Research, New Delhi. This publication may be used/shared freely for non-commercial purposes, with proper attribution to the publisher.iii FOREWORD Soil is a dynamic living entity wherein several self regulatory mechanisms are operated through the constituent living organisms. Microorganisms play a major role in keeping soils live through its ecosystem services like solubilization of minerals, recycling of organic matter, bioremediation and soil formation. Post green revolution, self sufficiency in food grain production was achieved through the use of high yielding varieties responsive to chemical fertilizers. However, indiscriminate use of chemical fertilizers has resulted in deterioration of soil health leading to shift in emphasis towards sustainable agriculture. Use of biofertilizers for nutrient management is an integral component of sustainable agriculture. Biofertilizers contain different plant associated microorganisms that enhance plant growth and improve yield and quality of the produce through supply of adequate nutrients. Nitrogen fixers, P-solubilizers and mobilizers are the traditionally known biofertilizers. With the advancement of science, new groups of biofertilizers kept on adding to the list, a few to name are K-solubilizers, Zn-solubilizers and consortia supplying different nutrients. In addition to supply of nutrients to crop plants, many of these microbes help the plants to tolerate abiotic stresses. Indian Council of Agricultural Research recognized the importance of Biofertilizers and started AICRP on Biological Nitrogen fixation in 1976, which was renamed as All India Network Project on Soil Biodiversity-Biofertilizers in 2008. These coordinated projects and the constituent institutes of ICAR have developed a large number of biofertilizers for different field and horticultural crops. In 2014, the Govt. of India initiated National Mission on Sustainable Agriculture (NMSA) where use of biofertilizers is being promoted to improve soil health. Though a lot of efforts have been made on the development ivand popularization of biofertilizers, the usage of biofertilizers is not at the expected level. The distribution of production and usage across the country is also skewed with south zone dominating both in terms of production and consumption of biofertilizers. Popularization of biofertilizers developed by ICAR is the immediate concern. This compendium entitled  ICAR Technologies: Biofertilizers for Sustainable Crop Production  is a compilation of validated biofertilizers developed by constituent ICAR institutes over the decades. I am hopeful that this publication would be useful for researchers, scientists, students and other stakeholders interested in this area. It would also help to popularize the biofertilizer technologies developed by ICAR. Dated: 30 th July, 2021 (T. Mohapatra) New Delhi vpREFacE Indian Council of Agricultural Research is the leader of agricultural research in India developing a large number of technologies adopted by farmers and other stakeholders. This has led to increased crop productivity in almost all the crops so that demands of a growing population are met adequately. The growth in agricultural production in the last few decades has been accompanied by a sharp increase in the use of chemical fertilizers, causing serious concern. Foremost among these concerns is the effect of excessive fertilizers on the quality of soil and ground water. As a consequence the soil health is compromised for productivity and over a period our soils are made sick with reduced fertility and eroded biodiversity. The use of environmental friendly biofertilizers can cut down the use of chemical fertilizers. Biofetilizers are the products containing living cells of different types of microorganisms that enrich the nutrient quality of soil. Bacteria, fungi and cyanobacteria (blue green algae) are considered as the potential candidates to be used as biofertilizers. Most biofertilizers belong to one of the following categories: nitrogen fixing; phosphate, potash and zinc solubilizing and mobilizing, and plant growth promoting rhizobacteria. The Gazette of India in its notification in April, 2014 also made provision for the production of microbial consortium. It is economical to use biofertilizers as they are a cheap source of nutrients when compared to chemical fertilizers. Biofertilizers in addition to different nutrients also provide certain growth promoting substances like hormones, vitamins, and amino acids that improve the plant health and vigour. Keeping pace with the biofertilizer industry, several Institutes of ICAR have developed biofertilizer technologies which have been validated under on-farm or multi-location trials. This compendium  ICAR Technologies: Biofertilizers for Sustainable Crop Production  is an intensive compilation and reflects the great efforts made by the scientists across various institutes to develop the technologies. viWith great pleasure I extend my sincere thanks to Dr. T. Mohapatra, Hon'ble Secretary, Department of Agricultural Research and Education (DARE) and Director General, ICAR, for insight, guidance and support in preparation of this compendium. I also thank the developers of biofertilizer technologies for their innovations and contributions. My appreciations are due to my colleagues at the Council and ICAR-NBAIM for bringing out this compendium which will help in shaping Indian Agriculture more sustainable. (T.R. Sharma) Deputy Director General (Crop Science) Indian Council of Agricultural Research viicONTENTS Foreword- Secretary, DARE and DG, ICAR iii Preface v Introduction ix Abbreviations x 1. Bio NPK 01 2. Bio Grow 02 3. Bio Phos and Bio Phos+03 4. Bio Zn 04 5. Bio Potash 05 6. Bio Bacter 06 7. RhizoNBAIM 07 8. PUSA Algal Biofertilizer 08 9. IARI Azotobacter 09 10. PUSA Azospirillum 10 11. PUSA Rhizobium 11 12. PUSA BIOPHOS 12 13. PUSA Mycorrhiza 13 14. PUSA BIOPOTASH 14 15. PUSA BioZinc 15 16. NPK Biofertilizer 16 17. PUSA SAMPOORN 17 18. Biofort IARI 18 19. Cyanobiocon 19 20. Cyanonutricon 20viii21 CRIDA Resilia-I 21 22. CRIDA Resilia-II 22 23. Biocapsules 23 24. Arka Microbial Consortium 24 25. Arka Actinoplus 25 26. Kera ProbioTM26 27. Cocoa ProbioTM27 28. KerAMTM28 29. NutBoost 29 30. NutMagic 30 31. NutGrow 31 32. DroughtGuard 32 33. SalGuard 33 34. Fytoprost 34 35. GoaBio-1 35 36. GoaBio-2 36 37. NRRI-EndoN 37 38. NRRI-RhizoN 38 39. Shatpada Plant Growth Booster 39 40. CIARI-Bioconsortia 40 41. CIARI-GroPro 41INTR oDucTI oN Microorganisms, as an important driver of biogeochemical cycles, play a key role in soil fertility and nutrient uptake by plants. Biofertilizers include nitrogen fixing, phosphate, potassium and zinc solubilising; nutrient mobilizing microorganisms used for application to seed or soil. The manipulation of rhizosphere of plants leads to increase in numbers of such microorganisms and thereby accelerate the microbial processes which augment the availability of nutrients that can be assimilated by plants. Biofertilizers are economical and ecofriendly alternative of chemical fertilizers. Integrated nutrient management (INM) considers biofertilizers as an important component and advocates judicious application of fertilizers along with organic manures and biofertilizers which is imperative to sustain crop production and maintenance of soil health in the long term. Rhizosphere bacteria that favourably influence plant growth and yield of crop plants are designated as plant growth promoting rhizobacteria (PGPR). They not only influence plant growth but also help the plants to overcome abiotic and biotic stresses. In India, biofertilizer industry has developed over years and many significant changes have taken place. The shift from carrier based to liquid formulations, inclusion of microbial consortium in Fertilizer Control Order (FCO), increase in numbers of efficient strains have led to the surge in production of biofertilizers. ICAR is continuously striving to develop quality assured biofertilizers using efficient and competitive strains. This bulletin is a compilation of 41 biofertilizer technologies developed by ICAR that are at different stages of commercialization. ixxabbreviations AICRP All India Coordinated Research Project ATARI Agricultural Technology Application Research Institute CAZRI Central Arid Zone Research Institute CCARI Central Coastal Agricultural Research Institute CCC Cyanobacterial Culture Collection CCSRI C C Shroff Research Institute cfu Colony Forming Unit CIARI Central Island Agricultural Research Institute CICR Central Institute for Cotton Research CPCRI Central Plantation Crops Research Institute CRIDA Central Research Institute for Dryland Agriculture DARE Department of Agricultural Research and Education DGR Directorate of Groundnut Research FFP Farmers First Program FLD Frontline Demonstration FYM Farmyard Manure IARI Indian Agricultural Research Institute ICAR Indian Council of Agricultural Research IGFRI Indian Grassland and Fodder Research Institute IIHR Indian Institute of Horticultural Research IIPR Indian Institute of Pulses Research IISR Indian Institute of Soybean Research KVK Krishi Vigyan Kendra MCC Microbial Culture Collection (now National Centre for Microbial Resource) MTCC Microbial Type Culture Collection MULLaRP Mungbean, Urdbean, Lentil, Lathyrus, Rajmash and Pea NAIMCC National Agriculturally Important Microbial Culture Collection NBAIM National Bureau of Agriculturally Important Microorganisms NBAIR National Bureau of Agricultural Insect Resources NCIM National Collection of Industrial Microorganisms NEH North Eastern Hills NIASM National Institute of Abiotic Stress Management NMSA National Mission on Sustainable Agriculture NRRI National Rice Research Institute NSP National Seed Project OFT On Farm Trial PGPR Plant Growth Promoting Rhizobacteria PSB Phosphate Solubilizing Bacteria RDF Recommended Dose of Fertilizers RRS Regional Research Station UAS University of Agricultural Sciences1 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter chroococcum W5 (NAIMCC-B-00061/MTCC 25045), Paenibacillus tylopili (NAIMCC-B-01548) and Bacillus decolorationis (MTCC 25044) y Type: Liquid formulation; 2   108 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Wheat, rice, maize, chickpea, soybean, papaya, fodder oat and berseem y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) and soil application for tree plants (10 mL/tree) y Target agroecological zones/states: Delhi, Punjab, Haryana, Uttar Pradesh, Gujarat, Bihar and Manipur y Validation: AICRPs on Maize and Groundnut for two years; at ICAR-IGFRI, Jhansi on fodder oats and berseem for two years; AICRP on NSP (Crops) for two years; Two years on-farm trials with rice and wheat in Uttar Pradesh and Punjab; One year on papaya in Bihar, on chickpea and soybean in Uttar Pradesh y commercialization: Commercialized in 2017; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Saves chemical fertilizers up to 25-30 kg N, 10-15 kg P and 2-5 kg K/ha   5-10% increase in grain yield in rice, wheat and maize   Net saving of ` 1000-3000/ha in target crops y cost: ` 50/- per 100 mL1. Bio NPK Effect of BioNPK on wheat var. HD2967 at ICAR-NBAIM, Mau during 2016-17Control Treated Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in2 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Bacillus sp. BC39 (NAIMCC-B-02720), B. subtilis RC25 (NAIMCC-B-02721), Pseudomonas fluorescens KC30 (NAIMCC-B-02722) and Pseudomonas sp. KC31 (NAIMCC-B-02723) y Type: Liquid formulation; 2   107 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Tomato, chilli, egg plant, marigold and tuberose y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre) y Target agroecological zones/states: Uttar Pradesh and Haryana y Validation: On-farm trials at ICAR-NBAIM, Mau on tomato and chilli; farmers  fields on tomato, potato and marigold in Mau and Varanasi; UAS, Shivamogga on chilli for two years y commercialization: Commercialized in 2017; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   25-30% increase in yield of tomato   Enhanced content of lycopene and  -carotene   Prolonged growth of marigold with two additional pickings of flower y cost: ` 50/- per 100 mL2. Bio Grow Effect of Bio Grow on tomato var. Dev-Daksh at ICAR-NBAIM, Mau during 2015-16Control Treated Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 3 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Kluyvera cryocrescens (Bio Phos; NAIMCC-B-02041) and Paenibacillus tylopili (Bio Phos+; NAIMCC-B-01548) y Type: Liquid formulation; 1   109 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Wheat, maize, rice, mustard and chickpea y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre) y Target agroecological zones/states: Delhi, Punjab, Haryana, Uttar Pradesh, Gujarat, Bihar, Manipur and Karnataka y Validation: AICRP on Maize at 22 locations for two years; OFT at ICAR-NBAIM, Mau on wheat, maize, rice and mustard for two years; farmers  fields in Uttar Pradesh, Bihar and Punjab on wheat and maize; UAS, Shivamogga on chickpea for two years y commercialization: Commercialized in 2017; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Save chemical fertilizers up to 25-30 kg P/ha   7-11% increase in grain yield of maize, wheat, rice and mustard y cost: ` 50/- per 100 mL3. Bio Phos and Bio Phos+ Control Treated Evaluation of Bio Phos on maize var. Bio 9637 at ICAR-NBAIM, Mau during 2017-18 Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 4 Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus endophyticus (NAIMCC-B-01543) y Type: Liquid formulation; 1   109 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Wheat, maize and soybean y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) y Target agroecological zones/states: Delhi, Punjab and Uttar Pradesh y Validation: ICAR-NBAIM, Mau on wheat and maize; farmers  fields in Mau and Azamgarh on wheat, ICAR-IARI, New Delhi on soybean y commercialization: Commercialized in 2017; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Saves chemical fertilizer up to 2-5 kg Zn/ha   5-10% increase in grain yield   Improves uptake of Zn in seeds y cost: ` 50/- per 100 mL4. Bio Zn Effect of Bio Zn inoculation on accummulation of Zn in maize roots visualized through Dithiozone stainingControl Treated Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 5 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus decolorationis (MTCC 25044) y Type: Liquid formulation; 1   109 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Maize, wheat, mustard and potato y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre) y Target agroecological zones/states: Delhi, Punjab, Uttar Pradesh and Uttarakhand y Validation: In wheat, mustard and maize at ICAR-NBAIM, Mau; on potato in farmers  fields at Dehradun y commercialization: Commercialized in 2017; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Augments 10-15 kg K/ha   2-5% increase in yield y cost: ` 50/- per 100 mL5. Bio Potash Control Treated Evaluation of Bio Potash on maize var. Bio 9637 at ICAR-NBAIM, Mau during 2017-18 Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 6 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter chroococcum (NAIMCC-B-00061/MTCC 25045) y Type: Liquid formulation; 1   109 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Wheat, rice and maize y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) y Target agroecological zones/states: Delhi, Punjab and Uttar Pradesh y Validation: ICAR-NBAIM, Mau on wheat, rice and maize; farmers  fields in Mau and Varanasi on wheat y commercialization: Commercialized in 2017; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Saves 20-25 kg N/ha   Increases yield by 5-7% y cost: ` 50/- per 100 mL 6. Bio Bacter Effect of Bio Bacter on wheat var. HD2967 at ICAR-NBAIM, Mau during 2017-18Control Treated Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 7 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Nitrogen fixing rhizobial strains specific to chickpea, pigeon pea, black gram, pea and lentil   Chickpea: Mesorhizobium ciceri Ca7 (NAIMCC-B-02476)   Pigeon pea: Bradyrhizobium yuanmingense APP151 (NAIMCC-B-02407)   Green gram: Bradyrhizobium yuanmingense MV3 ((NAIMCC-B-02475)   Pea: Rhizobium multihospitium P15 (NAIMCC-B-02717)   Lentil: Rhizobium lentis LTL3 (NAIMCC-B-02478) y Type: Liquid formulation; 1   109 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Specific rhizobia for each of the pulse crops viz., chickpea, pigeon pea, green gram, pea and lentil y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre) y Target agroecological zones/states: Uttar Pradesh y Validation: ICAR-NBAIM, Mau on chickpea, pigeon pea, green gram and lentil; farmers  fields on chickpea at Mau y commercialization: Commercialized in 2018; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Saves 25-30 kg N/ha   Increases yield by 7-10% y cost: ` 50/- per 100 mL 7. RhizoNBAIM Effect of RhizoNBAIM on chickpea var. Pusa 362 at ICAR-NBAIM, Mau during 2019-20Control Treated Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in8 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Anabaena variabilis (CCC 421), Nostoc muscorum (CCC 442), Aulosira fertilissima (CCC 444) and Tolypothrix tenuis (CCC 443) y Type: Multani Mitti based formulation; 104 propagules/g y Shelf life: 03 months at 25 C to 35 C y Target crop: Rice y Method of application: Soil application (500 g/acre) y Target agroecological zones/states: Punjab, Delhi, Uttar Pradesh, Haryana and Bihar y Validation: Multilocational trials on rice for 20 years y commercialization: On sale counters in the Division of Microbiology, ICAR-IARI, New Delhi since 1970s; Commercialized in 2010; Licensed to three entrepreneurs   Sai Bio Organics, Moga, Punjab   Ecological Products Industries, New Delhi   Forex Fastners (P) Ltd., Punjab y Benefits:   Saves 20-30 kg N/ha   Induces early grain setting y cost: ` 50/- per 500 g8. PUSA Algal Biofertilizer Evaluation of Pusa Algal Biofertilizer on rice var. Pusa Sugandh 5 at ICAR-IARI, New Delhi during 2007Treated Control Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in9 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter chroococcum W5 (NAIMCC-B-00061) y Type: Carrier based; 1   108 cfu/g; Liquid formulation; 1   109 cfu/mL y Shelf life: 03 months for carrier based formulation; 36 months for liquid formulation at 25 C to 35 C y Target crops: Cotton, wheat, maize, potato, brinjal, pearl millet, mustard and onion y Method of application: Seed treatment (50 mL formulation diluted to one litre with water for seeds to be sown in one acre; or 200 g for coating seeds for one acre) y Target agroecological zones/states: All states y Validation: Multilocational trials on different crops for 30 years y commercialization: On sale counters in the Division of Microbiology, ICAR-IARI, New Delhi since 1976; Commercialized in 2010; Licensed to four companies   Sai Bio Organics, Moga, Punjab   Eco Inputs, Ludhiana   HBPL, East Champaran, Bihar   Department of Horticulture, Hoshiarpur, Punjab y Benefits:   Saves 15-20 kg N/ha   10-35% increase in grain yield y cost: ` 50/- per 200 g; ` 75/- per 50 mL9. IARI Azotobacter Effect of IARI Azotobacter on brinjal at ICAR-IARI, New Delhi during 2002-03Control Treated Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in10 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azospirillum brasilense y Type: Carrier based formulation; 1   108 cfu/g y Shelf life: 03 months at 25 C to 35 C y Target crops: Sorghum, pearl millet, finger millet, Italian millet, kodo millet, barn yard millet, small millet, oats, rice and sugarcane y Method of application: Seed treatment (200 g for coating seeds for one acre) y Target agroecological zones/states: All states y Validation: Multilocational trials on target crops for 30 years y commercialization: On sale counters in the Division of Microbiology, ICAR- IARI, New Delhi since 1982; Registered at Zonal Technology Management & Business Planning and Development Unit, ICAR-IARI, New Delhi y Benefits:   Saves 15-20 kg N/ha   10-35% increase in grain yield y cost: ` 50/- per 200 g10. PUSA Azospirillum Effect of PUSA Azospirillum on sorghum at ICAR-IARI, New Delhi during 2002-03Control Treated Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in11 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Rhizobial strains specific to different pulse crops- chickpea (Mesorhizobium ciceri), pigeon pea (Bradyrhizobium yuanmingense ), black gram and cowpea [Bradyrhizobium sp. ( Vigna )], pea and lentil (Rhizobium leguminosarum bv. viceae ), groundnut [Bradyrhizobium sp. ( Arachis )], berseem (Rhizobium leguminosarum bv. trifolii ), lucerne (Rhizobium meliloti ), dhaincha ( Azorhizobium caulinodans ) and sunhemp [Bradyrhizobium sp. ( Crotolaria )] y Type: Carrier based formulation; 1   108 cfu/g y Shelf life: 03 months at 25 C to 35 C y Target crops: Chickpea, pigeon pea, black gram, pea, lentil, groundnut, cowpea, berseem, lucerne, dhaincha and sunhemp y Method of application: Seed treatment (200 g for coating seeds for one acre) y Target agroecological zones/states: All states   Pulse growing areas y Validation: AICRPs on MULLaRP , Chickpea and Soybean; Multilocational trials for more than 30 years y commercialization: On sale counters in the Division of Microbiology, ICAR- IARI, New Delhi since 1970s; Licensed to one entrepreneur   Sai Bio Organics, Moga, Punjab y Benefits:   Saves 15-25 kg N/ha   Increases yield by 30-60% in target crops y cost: ` 50/- per 200 g11. PUSA Rhizobium Effect of PUSA Rhizobium on Chickpea at ICAR-IARI, New Delhi during 2014Control Treated Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in 12 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Lactococcus lactis PHM5-37 y Type: Carrier based; 1   108 cfu/g; Liquid formulation; 1   109 cfu/mL y Shelf life: 03 months for carrier based and 12 months for liquid formulation at 25 C to 35 C y Target crops: Wheat, rice, cowpea, soybean, lentil, gram and potato y Method of application: Seed treatment (50 mL formulation diluted to one litre with water for seeds to be sown in one acre; or 200 g for coating seeds for one acre) y Target agroecological zones/states: All states y Validation: ICAR-IARI, New Delhi on wheat, rice, cowpea, soybean, lentil and gram for four years y commercialization: Licensed to Department of Horticulture, Hoshiarpur, Punjab y Benefits:   Saves 10-15 kg P/ha   Increases yield by 15-20% y cost: ` 50/- per 200 g; ` 75/- per 50 mL12. PUSA BIOPHOS Effect of PUSA BioPhos on Lentil var. L4076 at ICAR-IARI, New Delhi during 2017-18Control Treated Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in13 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Funneliformis mosseae (=Glomus mosseae ), Rhizophagus intraradices (=G. intraradices ) and Scutellospora sp. y Type: Soil based formulation; 100 infective propagules/g soil y Shelf life: 06 months at 25 C to 35 C y Target crops: Nursery raised crops, crops grown under protected cultivation; useful in tissue culture crops where it helps in hardening the roots before transplanting y Method of application: Soil application (5 kg/acre) y Target agroecological zones/states: All states y Validation: Multilocational trials on different crops for 20 years y commercialization: Commercialized in 1985; Licensed to twenty five entrepreneurs. Few are listed here   Patanjali, Haridwar, Uttrakhand   Bharat Agro Molecules Ltd., Meerut, Uttar pradesh   Pratishtha Industries Ltd., Secunderabad, Uttar pradesh   Vaishnavi Biotech Ltd., Secunderabad, Uttar pradesh   Prabhat Fertilizer and Chemical Works, Karnal, Haryana y Benefits:   Improves crop yield by 15-25%   Improves P-uptake in crops under P-deficient soil conditions   Sustains the crop under water stress conditions and improves soil aggregation   Enhances microbial population near the roots and enhances uptake of micro-(Zn, B, Cu, Fe etc.) and macro-nutrients like N & P y cost: ` 50/- per kg13. PUSA Mycorrhiza Production of AM fungi using (a) Cenchrus ciliaris as host and (b) root colonization by AM fungi a b Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in14 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus sp . y Type: Liquid formulation; 1   107 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Maize, wheat, rice and pearl millet y Method of application: Seed treatment (50 mL formulation diluted to one litre with water for seeds to be sown in one acre) y Target agroecological zones/states: Delhi, Punjab, Bihar, Jharkhand, West Bengal, Odisha, Chhattisgarh, Madhya Pradesh and Rajasthan y Validation: In wheat and maize at ICAR-IARI, New Delhi for two years; Three years on rice, wheat and pearl millet in collaboration with KVKs of target states y commercialization: Licensed to Department of Horticulture, Hoshiarpur, Punjab y Benefits:   Augments 10-15 kg K/ha   2-5% increase in yield y cost: ` 75/- per 50 mL 14. PUSA BIOPOTASH Evaluation of PUSA BIOPOTASH on wheat var. HD2967 at ICAR-IARI, New Delhi during 2016Control Treated Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in15 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus sp. y Type: Liquid formulation; 1   108 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Wheat, soybean, rice and pearl millet y Method of application: Seed treatment (50 mL formulation diluted to one litre with water for seeds to be sown in one acre) y Target agroecological zones/states: Delhi, Punjab, Uttar Pradesh, Bihar, Jharkhand, West Bengal, Odisha, Chhattisgarh, Madhya Pradesh, Rajasthan, Gujarat, Uttarakhand and Haryana y Validation: ICAR-IARI, New Delh on soybean and wheat for two years; Three years on rice, wheat and pearl millet in collaboration with KVKs of target states y commercialization: Commercialized in 2013; Licensed to M/s Kirti International, Ludhiana, Punjab y Benefits:   Augments 2 to 5 kg Zn/ha y cost: ` 75/- per 50 mL15. PUSA BioZinc Control Treated Evaluation of PUSA BioZinc on wheat var. HD2967 at ICAR-IARI, New Delhi during 2013-14 Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in16 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter chroococcum (MTCC 25045), Burkholderia cepacia (MTCC 25043) and Bacillus decolorationis ( MTCC 25044) y Type: Liquid formulation; 2   108 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Wheat, rice, citrus, turmeric and garlic y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) and soil application for tree plants (10 mL/tree) y Target agroecological zones/states: Bihar, Jharkhand, West Bengal, Odisha, Chhattisgarh, Madhya Pradesh, Punjab, Rajasthan, Gujarat, Delhi, Uttarakhand and Haryana y Validation: Two years on-farm trials at ICAR-IARI, New Delhi and farmers  fields at Punjab with rice and wheat; One year on citrus in Punjab, on garlic and turmeric in Gujarat; Three years on rice, wheat and pearl millet in collaboration with KVKs of target states y commercialization: Commercialized in 2015; Licensed to two entrepreneurs   M/s Monal Potteries and Ceramics Ltd., Una, Himachal Pradesh   Pratishtha Industries Ltd., Secunderabad, Telangana y Benefits:   Saves chemical fertilizers up to 25-30 kg N, 10-15 kg P and 2-5 kg K/ha   5-10% increase in grain yield in rice and wheat y cost: ` 125/- per 100 mL 16. NPK Biofertilizer Evaluation of NPK Biofertilizer on rice at ICAR-IARI, New Delhi during 2013-14 Control Treated Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in17 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter chroococcum W5 (MTCC 25045), Pseudomonas psychrophila and Bacillus decolorationis y Type: Liquid formulation; 2   108 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Wheat and rice y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) y Target agroecological zones/states: Delhi, Punjab and Haryana y Validation: Four years on-farm trials at ICAR-IARI, New Delhi with rice and wheat y commercialization: Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Saves chemical fertilizers up to 25-30 kg N, 10-15 kg P and 2-5 kg K/ha   5-10% increase in grain yield in rice and wheat y cost: ` 100/- per 100 mL 17. PUSA SAMPOORN Evaluation of PUSA SAMPOORN on wheat var. HD2967 at ICAR-IARI, New Delhi during 2017-18Control Treated Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in18 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Biofort (W)-Bacillus pumilus PW1 (NAIMCC-B-00550) + Providencia sp. PW5 (NAIMCC-B-00557) + Brevundimonas diminuta PW7 (NAIMCC-B-00559); Biofort (R)- Providencia sp. PR3 (NAIMCC-B-00563)+ B. diminuta PR7 (NAIMCC-B-00566)+ Ochrobactrum anthropi PR10 (NAIMCC-B-00568) y Type: Carrier based formulation; 3   109 cfu/g y Shelf life: 06 months at 25 C to 35 C y Target crops: Biofort (W) for wheat and Biofort (R) for rice y Method of application: Seed coating; soil application or seedling dip (500 g/acre) y Target agroecological zones/states: Delhi, Punjab, Haryana and Andhra Pradesh y Validation: Five years in rice-wheat cropping system at ICAR-IARI, New Delhi; On-farm trials at KVKs of Andhra Pradesh with rice; Ambala District, Haryana with rice for one year y commercialization: Commercialized in 2015; Registered at Zonal Technology Management & Business Planning and Development Unit, ICAR-IARI, New Delhi y Benefits:   Effective micronutrient mobilization to grains, with 13 40% increase in Fe, Zn and Mn concentrations   Saves chemical fertilizers up to 30-50 kg N/ha   10-15% increase in yield in target crops18. Biofort IARI Influence of Biofort IARI application in wheat var. HD 2967at ICAR-IARI, New Delhi during 2017-18a. Control-100% NPK (RDF) b. 50% N + Full dose of P & K + Biofort IARI Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in 19 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Anabaena laxa/Calothrix elenkinii y Type: Carrier based formulation; 2-5  g Chlorophyll/g y Shelf life: 06 months at 25 C to 35 C y Target crops: Tomato, cucumber, capsicum, cotton, rice, chickpea and chrysanthemum y Method of application: Seed coating (1.25 kg/ha); soil application (1.25 kg suspended in 500 L water for one ha) or seedling dip (1.25 kg suspended in 25 L water for one ha) y Target agroecological zones/states: Delhi, Punjab, Haryana, Himachal Pradesh, Uttarakhand, Rajasthan, Madhya Pradesh and Maharashtra y Validation: Five years under Centre for Protected Cultivation Technology in vegetables and flower crops at ICAR-IARI, New Delhi; Three years field trials in cotton, at ICAR-Central Institute for Cotton Research, Sirsa and Nagpur; Two years with capsicum and tomato, at ICAR-IARI Regional station, Katrain; okra and cucumber at ICAR-Indian Institute of Vegetable Research, Varanasi Uttar Pradesh; Two years in chrysanthemum and tomato at ICAR-IARI, New Delhi; One year with rice in Ambala District, Haryana y commercialization: Commercialized in 2015; Registered at Zonal Technology Management & Business Planning and Development Unit, ICAR-IARI, New Delhi y Benefits:   Significant enhancement of plant growth, N and P uptake   Elicits immunity against soil borne fungal diseases   Saves chemical fertilizers up to 30-50 kg N/ha   10-12% increase in yields19. Cyanobiocon Influence of Cyanobiocon application in chickpea var. Pusa 1103 at ICAR-IARI, New Delhi during 2013-14 Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in 20 Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Anabaena torulosa BF1 (NAIMCC-C-00344), Nostoc carneum BF2 (NAIMCC-C-00345), Nostoc piscinale BF3 (NAIMCC-C-00346) and Anabaena doliolum BF4 (NAIMCC-C-00347) y Type: Carrier based formulation; 2-5  g Chlorophyll/g y Shelf life: 06 months at 25 C to 35 C y Target crops: Rice, wheat, maize, cotton, vegetables and flower crops y Method of Application along with dose: Seed coating (1.25 kg/ha), soil application (1.25 kg suspended in 500 L water for one ha) or seedling dip (1.25 kg suspended in 25 L water for one ha) y Target agroecological zones/states: Delhi, Punjab, Haryana, Andhra Pradesh, Telangana and Maharashtra y Validation : Five years in rice-wheat cropping system at ICAR-IARI, New Delhi; Two years under Centre for Protected Cultivation Technology in vegetables and flower crops at ICAR-IARI, New Delhi; On-farm trials at KVKs of Andhra Pradesh and Telangana in rice; Ambala District, Haryana in rice for two years; One year with cotton at ICAR-Central Institute for Cotton Research, Nagpur y commercialization: Commercialized in 2015; Registered at Zonal Technology Management & Business Planning and Development Unit, ICAR-IARI, New Delhi y Benefits:   10 20% increase in grain micronutrients   Saves 30-50 kg N/ha   10-15% increase in yields   Enrichment of soil carbon 20. Cyanonutricon Influence of Cyanonutricon on rice var. Pusa Basmati 1509 at ICAR-IARI New Delhi during 2019 Control- 100% NPK (RDF) 50% N+ 100% P & K + Cyanonutricon Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in21 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Pseudomonas putida P7 (NAIMCC-B-00922) and Paenibacillus favisporus B30 (NAIMCC-B-01801) y Type: Carrier based formulation; 1   108 cfu/g y Shelf life: 06 months at 25 C to 35 C y Target crops: Maize and rabi sorghum y Method of application: Seed treatment 30 g/kg seeds; soil application 2.5 kg/ha (Mix with 50 kg of well decomposed FYM and apply to one hectare) y Target agroecological zones/states: Punjab, Karnataka and Telangana y Validation: On-farm trials at ICAR-CRIDA, Hyderabad with maize and sorghum for three years; AICRP on Dryland Agriculture at Ballowal Saunkhri, Punjab for three years y commercialization: Available for licensing y Benefits:   20-30% increase in yield of maize and rabi sorghum21. CRIDA Resilia-I Response of maize var. PMH-1 at Ballowal Saunkhri, Punjab during 2019-20 Control Treated Contact:Director, ICAR-Central Research Institute for Dryland Agriculture, Santoshnagar, Hyderabad-500 059; e-Mail: director.crida@icar.gov.in22 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Pseudomonas putida P45 (NAIMCC-B-00923) and Bacillus amyloliquefaciens B17 (NAIMCC-B-00921) y Type: Carrier based formulation; 1   108 cfu/g y Shelf life: 06 months at 25 C to 35 C y Target crop: Sorghum y Method of application: Seed treatment 30 g/kg seeds + soil application 2.5 kg/ha (Mix with 50 kg of well decomposed FYM and apply to one hectare) y Target agroecological zones/states: Maharashtra and Telangana y Validation: On-farm trials at ICAR-CRIDA, Hyderabad with sorghum for three years; AICRP on Dryland Agriculture at Parbhani, Maharashtra for three years y commercialization: Available for licensing y Benefits:   15-20% increase in yield of sorghum22. CRIDA Resilia-II Response of sorghum var. CSV-27 at Parbhani, Maharashtra during 2019-20Control Treated Contact:Director, ICAR-Central Research Institute for Dryland Agriculture, Santoshnagar, Hyderabad-500 059; e-Mail: director.crida@icar.gov.in23 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Capsule can act as a carrier for any bacterial/fungal strain (Rhizobium , Azotobacter, Pseudomonas fluorescens, Bacillus, Burkholderia and Trichoderma ) y Type: Capsules; 1   1012 cfu/capsule y Shelf life: 12 months at 25 C to 35 C y Target crops: All plantation and horticultural crops y Method of application: Soil drenching using 8-10 capsules per acre; one capsule suspended in 1000 mL water and finally diluted to 100 L y Target agroecological zones/states: All y Validation: Farmers  fields at Kerala, Karnataka, Tamil Nadu, Andhra Pradesh, Maharashtra, Madhya Pradesh, Gujarat, Uttar Pradesh and Himachal Pradesh y commercialization: Commercialized in 2016; Licensed to two companies   M/s Codagu Agritech, Kudulur, PB No. 58, Kushalnagar-571234, Karnataka   M/s SRT Agro Science Pvt. Ltd. Vill: Funda, Tah: Patan, Durg-491111, Chhattisgarh y Benefits:   Enhances root production, nutrient mobilization and use efficiency, crop growth and yield   Protect crops against soil borne pathogens23. Biocapsules Trichoderma sp. and Bacillus amyloliquefaciens capsules Rhizobium and Azotobacter capsules Contact:Director, ICAR-Indian Institute of Spices Research, Marikunnu PO, Kozhikode-673012; e-Mail: director.spices@icar.gov.in 24 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter tropicalis PAN MC1 (NAIMCC-B-01336) (Nitrogen fixer), Bacillus aryabhattai Bel 6 (NAIMCC-B-01335) (P & Zn solubilizer) and Pseudomonas taiwanensis Mpf2 (NAIMCC-B-01337) (K-solubilizer and PGPR) y Type: Carrier based formulation; 1   10 8 cfu/g of each; Liquid formulation; 1x 109 cfu/mL of each y Shelf life: 06 months at 25 C to 35 C y Target crops: All annual and perennial horticultural and plantation crops. y Method of application: Seed treatment; biofertigation through drip lines, soil drenching (3 L/acre or 5 kg/acre) y Target agroecological zones/states: Karnataka, Tamil Nadu, Kerala, Telangana, Andhra Pradesh and Maharashtra y Validation: AICRP on Fruits with guava and papaya for two years; ATARI, Zone VIII for two years on a variety of vegetables; on different horticultural crops at ICAR-IIHR, Bengaluru for three years y commercialization: Commercialized in 2013; Licensed to 13 entrepreneurs/ KVKs/State departments   M/s Bloom Biotech, Chikkamagaluru, Karnataka   M/s Gayatri Hasiru Uddime , Ramnagara District, Karnataka   ICAR-KVK, Hirehalli , Tumakuru District, Karnataka   Department of Horticulture, Bengaluru, Karnataka   M/s Phalada Organics, Bengaluru, Karnataka   ICAR- KVK, Gonikoppal , Kodagu District, Karnataka   M/s Natura Crop Care, Bengaluru, Karnataka   M/s Janardhana, Bengaluru, Karnataka   M/s Bhavani Biochemicals, Koppal, Karnataka   M/s ESAF Swarasya Farmers Producers Organization, Palakkad, Kerala   M/s Ganpath Products, Madurai, Tamil Nadu   M/s JSS Krishi Vigyan Kendra, Mysuru, Karnataka   State Parasite Breeding Farm , Kasaragod , Kerala y Benefits:   Saves 25% of N and P fertilizers   Enhances yield by 10 to 15% in target crops   Net savings of ` 1000-3000/ha in target crops y cost: ` 147/- per kg and ` 263/- per litre24. Arka Microbial Consortium Contact: Director, ICAR- Indian Institute of Horticultural Research, Hesaraghatta Lake Post, Bengaluru-560089; e-Mail: director.iihr@icar.gov.in25 Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Streptomyces viridobrunneus Pan Act1 (MTCC 11933), S. bullii Pan Act2 (MTCC 11934) and S. griseorubens Pan Act3 (MTCC 11935) y Type: Carrier based; 1   106 cfu/g of each y Shelf life: 06 months at 25 C to 35 C y Target crops: All annual and perennial horticultural and plantation crops. y Method of application: Seed treatment, soil drenching, enrichment of FYM and cocopeat used for raising nurseries and applied at 5 kg/acre. For annual crops it can be applied once during the crop cultivation period, preferably within 10 days of transplantation/sowing. For perennial crops, it can be applied at four monthly intervals with the first application commencing in the month of June/July y Target agroecological zones/states: Karnataka, Tamil Nadu, Kerala, Telangana, Andhra Pradesh and Maharashtra y Validation: Validated through extensive institutional trials at ICAR-IIHR, Bengaluru on a variety of horticultural crops and through the ATARI of Zone VIII in different vegetable crops y commercialization: Commercialized in 2015; Licensed to two entrepreneurs   M/s Bloom Biotech, Chikkamagaluru, Karnataka   M/s Natura Crop Care, Bengaluru, Karnataka y Benefits:   Saves 25% of P fertilizers   Improves overall plant health y cost: ` 140/kg25. Arka Actino Plus Effect of Arka Actino Plus on vegetable Cowpea (Arka Garima) at ICAR-IIHR, Bengaluru during 2020-21Control Treated Contact:Director, ICAR- Indian Institute of Horticultural Research, Hesaraghatta Lake Post, Bengaluru-560089; e-Mail: director.iihr@icar.gov.in26 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus megaterium (NAIMCC-B-02718) y Type: Carrier based formulation; 107-109 cfu/g y Shelf life: 06 months at 25 C to 35 C y Target crops: Coconut, tomato, brinjal and chilli y Method of application: Seedling dip (mix 500 g in 5 L of water and dip the coconut seedlings for 8-10 hrs); soil application (25 g per plant); for transplanted seedlings booster dose can be given at 50 g per plant; for vegetable crops at 2 kg/acre y Target agroecological zones/states: Kerala y Validation: AICRP on Palms with coconut for 3 years; On-farm trials at ICAR-CPCRI, Kasaragod and farmers' fields, Kasaragod for one year y commercialization: Commercialized in 2018; Licensed to entrepreneur group of Farmers First Program (FFP) in Pathiyoor Panchayat of Alappuzha district, Kerala y Benefits:   Yield enhancement of 10-12% nuts/palm/year   Incorporation in INM based farming could fetch additional remuneration of ` 20000/ha and ` 30000-40000/ha if vegetables are taken as intercrop y cost: ` 100/- per kg26. Kera ProbioTM Kera Probio treatment effect on coconut seedlings Control Treated Contact: Director, ICAR-Central Plantation Crops Research Institute, P .O Kudlu, Kasaragod-671124; e-Mail: director.cpcri@icar.gov.in 27 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Pseudomonas putida (NAIMCC-B-02719) y Type: Carrier based formulation; 107-109 cfu/g y Shelf life: 06 months at 25 C to 35 C y Target crops: Cocoa and Vegetable crops y Method of application: Soil application (25 g per plant); for transplanted seedlings booster dose can be given at 100 g per plant; for vegetable crops at 2 kg/acre y Target agroecological zones/states: Kerala, Karnataka, Tamil Nadu, Andhra Pradesh and Telangana y Validation: ICAR-CPCRI farms and farmers  fields of different cocoa growing areas of Kerala, Karnataka, Tamil Nadu, Andhra Pradesh and Telangana for two years y commercialization: Available for licensing y Benefits:   50-60% increase in dry matter in seedlings y cost: ` 100/- per kg27. Cocoa ProbioTM Trials with cocoa var. forastero at ICAR-CPCRI, Kasaragod during 2013-14 Contact:Director, ICAR-Central Plantation Crops Research Institute, P .O Kudlu, Kasaragod-671124; e-Mail: director.cpcri@icar.gov.in28 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Claroideoglomus etunicatum y Type: Carrier based formulation; 100 infective propagules/g y Shelf life: 04 months at 25 C to 35 C y Target crops: Coconut y Method of application: Soil application (50 g/ plant) y Target agroecological zones/states: Kerala, Karnataka, Tamil Nadu, Andhra Pradesh and Telangana y Validation: ICAR-CPCRI farms and farmers  fields in Kerala, Karnataka, Tamil Nadu, Andhra Pradesh and Telangana y commercialization: Available for licensing y Benefits:   Improves overall plant growth   Better nutrient uptake28. KerAMTM Mixing of KerAM with nursery media KerAM treated coconut seedlings Contact:Director, ICAR-Central Plantation Crops Research Institute, P .O Kudlu, Kasaragod-671124; e-Mail: director.cpcri@icar.gov.in 29 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Pseudomonas gessardii BHU1, Pseudomonas putida S1(6) and Pseudomonas aeruginosa BM6 y Type: Carrier based formulation; 1   107 cfu/g of each; Liquid formulation; 1   108 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crop: Groundnut y Method of application: Carrier based: 4 g of formulation to be suspended in 50 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, Maharashtra, Telangana, Tamil Nadu, Rajasthan, Odisha, West Bengal, NEH region, Madhya Pradesh and Uttar Pradesh y Validation: ICAR-DGR, Junagadh and farmers  fields, Junagadh for three years; AICRP on Groundnut centres for three years; FLDs for two years in different states y commercialization: Available for licensing through Agrinnovate India Ltd. (www. agrinnovateindia.co.in) y Benefits:   Enhances pod yield in groundnut upto 16 to 18%   Saves 30-40% of phosphatic and 25% of potassium fertilizers   Saves input cost by ` 1000-2000/ha 29. NutBoost Effect of NutBoost on groundnut var. JL24 at ICAR-DGR, Junagadh during 2000-01 Contact: Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in 30 Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Pseudomonas gessardii BHU1 and Pseudomonas putida S1(6) (PGPR); Enterobacter cloacae BM8 and Bacillus sp. (PSB); Sinorhizobium americanum NRCG4 and Rhizobium sp. NRCG9 (Groundnut nodulating rhizobia) y Type: Carrier based formulation; 1   107 cfu/g of each; Liquid formulation; 1   108 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Groundnut y Method of application: Seed treatment; Carrier based: 4 g of formulation to be suspended in 50 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, Maharashtra, Telangana, Tamil Nadu, Rajasthan, Odisha, West Bengal, NEH region, Madhya Pradesh and Uttar Pradesh y Validation: ICAR-DGR, Junagadh and farmers  fields, Junagadh for three years; AICRP on Groundnut centres for three years; FLDs for two years in different states y commercialization: Available for licensing through Agrinnovate India Ltd. (www. agrinnovateindia.co.in) y Benefits:   Pod yield enhancement upto 20%   Saves 25-30% of nitrogenous, 30-40% of phosphatic and 25% of potassic fertilizers   Saves input cost by ` 1000-3000/ha30. NutMagic Effect of NutMagic on groundnut var.TG3A at ICAR-DGR, Junagadh during 2007-08Control Treated Contact:Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in 31 Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Pseudomonas putida DAPG2, Pseudomonas putida DAPG4, Pseudomonas putida FP86 and Pseudomonas fluorescens FP98 y Type: Carrier based formulation; 1   107 cfu/g of each; Liquid formulation; 1   108 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Groundnut y Method of application: Carrier based: 4 g of formulation to be suspended in 50 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, Maharashtra, Telangana, Tamil Nadu, Rajasthan, Odisha, West Bengal, NEH region, Madhya Pradesh and Uttar Pradesh y Validation: ICAR-DGR, Junagadh and farmers  fields, Junagadh for three years; AICRP on Groundnut centres for three years y commercialization: Available for licensing y Benefits:   Improves pod yield of groundnut by 21%   Reduces incidence of collar- and stem- rot by 60%   Improves availability of macro- and micro-nutrients (P , K, Mn, Fe, Zn, etc.) by 20-25%   Controls nematodes in soil   Saves upto 30% of P , K, Zn, Fe   Saves input cost by ` 1500-2500/ha31. NutGrow Effect of NutGrow on groundnut var. GG20 at ICAR-DGR, Junagadh during 2011Control Treated Contact:Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in 32 Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus firmus J22 y Type: Carrier based formulation; 1   107 cfu/g; Liquid formulation; 1   109 cfu/mL y Shelf life: 24 months at 25 C to 35 C y Target crops: Groundnut, pigeon pea, cotton and soybean y Method of application: Carrier based: 4 g of formulation to be suspended in 50 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, Maharashtra, Telangana, Tamil Nadu, Rajasthan, Odisha, West Bengal, NEH region, Madhya Pradesh and Uttar Pradesh y Validation: On groundnut at ICAR-DGR, Junagadh and farmers  fields, Junagadh (Gujarat), Anantapur and Kalyandurga (Andhra Pradesh), Hiriyur (Karnataka); on soybean at ICAR-IISR, Indore; on pigeon pea at ICAR-IIPR, Kanpur; on cotton and groundnut at CCSRI, Mandvi, Bhuj; on groundnut under rainfed conditions at AICRP-Groundnut centres for three years y commercialization: Available for licensing y Benefits:   Saves 30-40% irrigation water, can give pod yield of 2200-2300 kg/ha with 3-4 less protective irrigations in summer groundnut   Under rainfed condition, alleviates drought stress and improves pod yield upto 32%   Alleviates drought stress in soybean and pigeon pea and improves yield upto 20%32. DroughtGuard Effect of DroughtGuard on groundnut var. TG37A at ICAR-DGR, Junagadh during 2015-16Control Treated Contact: Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in 33 Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Bacillus firmus J22N and Bacillus subtilis REN51N y Type: Carrier based formulation; 1   107 cfu/g of each; Liquid formulation; 1   109 cfu/mL of each y Shelf life: 24 months at 25 C to 35 C y Target crops: Groundnut y Method of application: Carrier based: 4 g of formulation to be suspended in 50 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel y Target agroecological zones/states: Kachchh, Porbandar, Junagadh, Dwarka, Gir-Somnath and Surendranagar districts of Gujarat y Validation: Experimental and farmers  fields at Bhuj, Gujarat y commercialization: Available for licensing y Benefits :   Alleviates salinity stress and improves pod yield upto 18% and haulm yield upto 6%   Increases net return by ` 15000-16000/-33. SalGuard Effect of SalGuard on groundnut var. TG37A and GG2 at RRS of ICAR-CAZRI, Kukma, Bhuj during 2014-15Control Treated Contact:Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in 34 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Metabolic product of a Rhizobium sp. (NCIM 5599) y Type: Gel based y Shelf life: 12 months at 25 C to 35 C y Target crops: Sorghum, soybean, maize, brinjal, onion and fenugreek y Method of application: Foliar spray (50 mL/m2); drip-irrigation system (5-10 kg/ ha); seed-treatment/seed-coating (10 g/kg); soil drenching (5-10 kg/ha) y Target agroecological zones/states: Maharashtra y Validation: On sorghum, soybean, maize, brinjal, onion and fenugreek at ICAR- NIASM, Baramati, Maharashtra y commercialization: Available for licensing y Benefits:   Induce rhizosphere colonization by different beneficial microbes such as nitrogen fixers, siderophore producers, and exopolysaccharides producers   Promote nodulation in soybean34. Fytoprost Effect of Fytoprost on turmeric at ICAR-NIASM, Baramati during 2018-19Control Treated Contact:Director, ICAR- National Institute of Abiotic Stress Management, Malegaon, Baramati 413115; e-Mail: director.niasm@icar.gov.in 35 Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus methylotrophicus STC-4 (NAIMCC-B-01890) y Type: Carrier based formulation; 1   108 cfu/g y Shelf life: 24 months at 25 C to 35 C y Target crops: Rice, black pepper, fruits, and plantation crop nurseries y Method of application: Rice: Seed treatment at 40 g/kg seed; Nursery application at 50 g/m 2 by pouring the water suspension at 7 and 14 days after sowing; Vegetables: Soil application at 50 g/m2 in nursery and at 1.0 g/plant (suspend 1 kg in 50 L water and pour 50 mL/plant) while planting or within a week of planting; Black pepper: Soil application at 5 g/cutting in nursery and 50 g/plant while planting y Target agroecological zones/states: Goa, Coastal Maharashtra, Coastal Karnataka and Kerala y Validation: On rice, vegetable crops and black pepper at ICAR-CCARI, Goa for three years y commercialization: Commercialized in 2019; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y cost: ` 300/- per kg y Benefits:   Better nutrient mineralization, alleviation of salinity stress, better crop establishment and improved plant growth parameters, yield and soil biological activity   12% increase in grain yield in rice   Reduced incidence of soil borne diseases in vegetable crops (40-60%) and foot rot in black pepper (70-80%)35. GoaBio-1 Effect of GoaBio-1 on a) Pepper var. Paniyur-1 at Chorao, Goa b) Chilli var. Nisha at Sangolda, Goa during 2016-17Control Control Treated Treated a b Contact:Director, ICAR-Central Coastal Agricultural Research Institute, Old Goa-403402, Goa; e-Mail: director.ccari@icar.gov.in36 Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus methylotrophicus RCh6-2b (NAIMCC-B-01889) y Type: Carrier based formulation; 1   108 cfu/g y Shelf life: 24 months at 25 C to 35 C y Target crops: Brinjal, tomato, chilli, cucumber, black pepper, fruit and plantation crops nurseries y Method of application: Vegetables: Soil application at 50 g/m 2 in nursery and at 1.0 g/plant (suspend 1 kg in 50 L water and pour 50 mL/plant) while planting or within a week of planting; Black pepper: Soil application at 5 g/cutting in nursery and at 50 g/plant while planting y Target agroecological zones/states: Goa, Coastal Maharashtra, Coastal Karnataka and Kerala y Validation: On brinjal, tomato, chilli and black pepper at ICAR- CCARI, Goa and under farmers  fields at Goa for three years y commercialization: Commercialized in 2019; Available for licensing through Agrinnovate India Ltd. (www.agrinnovateindia.co.in) y Benefits:   Improved plant growth parameters, plant health and yield   Reduced soil borne disease incidences in brinjal (70-80% bacterial wilt), chilli (40-60% wilt and root rot) and black pepper (70-80% foot rot) y cost: ` 300/- per kg36. GoaBio-2 Effect of Goa Bio-2 on brinjal var. Agassaim at ICAR-CCARI, Goa during 2016-17Control Treated Contact:Director, ICAR-Central Coastal Agricultural Research Institute, Old Goa-403402, Goa; e-Mail: director.ccari@icar.gov.in37 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter chroococcum Avi2 (MCC 3432) y Type: Liquid formulation; 1   109 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crop: Rice y Method of application: Seedling root dip treatment at 500 mL/ha y Target agroecological zones/states: Odisha y Validation: ICAR-NRRI, Cuttack experimental farm for six years; at farmers  fields (30 locations) in Odisha y commercialization: Available for licensing y Benefits:   Saves 25% of chemical N-fertilizers37. NRRI-EndoN Effect of NRRI-EndoN on rice var. Naveen at ICAR-NRRI, Cuttack during 2017-18Control Treated Contact:Director, ICAR- National Rice Research Institute, Cuttack-753006, Odisha; e-Mail: director.nrri@icar.gov.in38 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter vinelandii SRIAz3 y Type: Liquid formulation; 1   109 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crop: Rice y Method of application: : Seedling root dip treatment at 500 mL/ha y Target agroecological zones/states: ICAR-NRRI, Cuttack experimental farm for six years; at farmers  fields (30 locations) in Odisha y commercialization: Available for licencing y Benefits:   Saves 15-25% of chemical N-fertilizers 38. NRRI-RhizoN Evaluation of NRRI-RhizoN on rice var. Naveen at ICAR-NRRI, Cuttack during 2018-19Control Treated Contact: Director, ICAR- National Rice Research Institute, Cuttack-753006, Odisha; e-Mail: director.nrri@icar.gov.in39 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus megaterium NBAII EXB53 y Type: Carrier based; 1   109 cfu/g; Liquid formulations; 1   108 cfu/mL y Shelf life: 12 months at 25 C to 35 C y Target crops: Chilli, capsicum, tomato, brinjal, cauliflower and cabbage y Method of application: Seed treatment (10 g/kg of seeds or 10 mL/kg of seeds) y Target agroecological zones/states: Karnataka y Validation: On-farm trials at ICAR-NBAIR, Bengaluru and commercial nurseries, Bengaluru y commercialization: Commercialized in 2014; Licensed to Agribiocare, Kottayam, Kerala y Benefits:   Increased seedling vigor index in chilli, capsicum, cabbage, brinjal, cauliflower and tomato39. Shatpada Plant growth Booster Effect on chilli var. Bydagi at ICAR-NBAIR, Bengaluru during 2013-14 Control Treated Contact:Director, ICAR- National Bureau of Agricultural Insect Resources, Bengaluru-560024; e-Mail: director.nbair@icar.gov.in40 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Bacillus amyloliquefaciens , Lysinibacillus sphaericus and Bacillus subtilis y Type: Carrier based formulation; 1   107 cfu/g of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Solanaceous vegetables and flower crops y Method of application: Soil application as bio-enriched FYM; 1 kg to be mixed with 50 kg matured FYM and allowed to get multiplied for one week under shaded field condition with intermittent mixing once in two days; this bio-enriched FYM can be applied in field at 2.5 tonnes/ha; it can be applied throughout cropping season at 20-30 days interval y Target agroecological zones/states: Andaman and Nicobar Islands y Validation: On brinjal and flower crops at ICAR-CIARI, Port Blair, and farmers  fields at Andaman and Nicobar Islands for three years y commercialization: Available for licensing y Benefits:   Promotes growth and yield of brinjal and flower crops   Protects plants from bacterial wilt disease40. CIARI-Bioconsortia Effect of CIARI-Bioconsortia on brinjal in Andaman and Nicobar Islands during 2015-16Control Treated Contact:Director, ICAR-Central Island Agricultural Research Institute, Port Blair-744101, Andaman and Nicobar Islands; e-Mail: director.ciari@icar.gov.in41 Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Bacillus amyloliquefaciens, Lysinibacillus sphaericus and Bacillus subtilis y Type: Liquid formulation; 1   107 cfu/mL of each y Shelf life: 12 months at 25 C to 35 C y Target crops: Vegetable crops y Method of application: Seed treatment at 10 ml/kg seeds; Foliar spray at 5 L/ha at 20-30 days interval y Target agroecological zones/states: Andaman and Nicobar Islands y Validation: On vegetable crops at farmers  fields of Andaman and Nicobar Islands for three years y commercialization: Available for licensing y Benefits:   Enhances plant growth by uniform seed germination, high seedling vigor and uniform plant growth   Also acts as eff ective biocontrol agent against major foliar diseases41. CIARI-GroPro Effect of seed treatment with CIARI-GroPro on brinjal in Andaman and Nicobar Islands during 2015-16Control Treated Contact:Director, ICAR-Central Island Agricultural Research Institute, Port Blair-744101, Andaman and Nicobar Islands; e-Mail: director.ciari@icar.gov.in Notes
+i
+Indian Council of Agricultural Research
+Krishi Bhavan, New Delhi 110 001Icar TechnologIes
+BIoferTIlIzers
+for sUsTaInaBle croP ProDUcTIonPrinted at: M/s. Royal Offset Printers, A-89/1, Naraina Industrial Area, Phase-I,  
+New Delhi 110 028Printed: 
+July, 2021
+Citation:
+Saxena A.K., Kumar M., Chakdar H., Rajawat M.V .S., Dubey S.C. and Sharma T.R. 2021. 
+ICAR Technologies: Biofertilizers for Sustainable Crop Production. Indian Council of Agricultural Research, New Delhi
+Conceived by: 
+Dr. Trilochan Mohapatra, Secretary, Department of Agricultural Research and  
+Education and Director General, Indian Council of Agricultural Research,  
+Krishi Bhavan, New Delhi 110 001
+Compiled by:
+Dr. Anil Kumar Saxena, Director, ICAR-National Bureau of Agriculturally Important 
+Microorganisms, Kushmaur, Mau 275 103
+Edited by:
+A.K. Saxena, Kumar M., H. Chakdar, M.V .S. Rajawat, S.C. Dubey and T.R. Sharma
+Contributors:
+All the developers of biofertilizer technologies
+Secretarial Assistance:
+Mr. Siddharth Arora, Personal Assistant, ICAR-NBAIM
+Published by:
+Directorate of Knowledge Management in Agriculture, Indian Council of Agricultural 
+Research, KAB-1, Pusa Campus, New Delhi 110 012.
+© 2021, Indian Council of Agricultural Research, New Delhi.
+This publication may be used/shared freely for non-commercial purposes, with proper 
+attribution to the publisher.iii
+FOREWORD
+Soil is a dynamic living entity wherein several self regulatory 
+mechanisms are operated through the constituent living organisms. 
+Microorganisms play a major role in keeping soils live through its ecosystem services like solubilization of minerals, recycling of organic matter, bioremediation and soil formation. Post green revolution, self sufficiency in food grain production was achieved through the use of high yielding varieties responsive to chemical fertilizers. However, indiscriminate use of chemical fertilizers has resulted in deterioration of soil health leading to shift in emphasis towards sustainable agriculture. Use of biofertilizers for nutrient management is an integral component of sustainable agriculture. 
+Biofertilizers contain different plant associated microorganisms 
+that enhance plant growth and improve yield and quality of the produce through supply of adequate nutrients. Nitrogen fixers, P-solubilizers and mobilizers are the traditionally known biofertilizers. With the advancement of science, new groups of biofertilizers kept on adding to the list, a few to name are K-solubilizers, Zn-solubilizers and consortia supplying different nutrients. In addition to supply of nutrients to crop plants, many of these microbes help the plants to tolerate abiotic stresses.
+Indian Council of Agricultural Research recognized the 
+importance of Biofertilizers and started AICRP on Biological Nitrogen fixation in 1976, which was renamed as All India Network Project on Soil Biodiversity-Biofertilizers in 2008. These coordinated projects and the constituent institutes of ICAR have developed a large number of biofertilizers for different field and horticultural crops. In 2014, the Govt. of India initiated National Mission on Sustainable Agriculture (NMSA) where use of biofertilizers is being promoted to improve soil health. Though a lot of efforts have been made on the development ivand popularization of biofertilizers, the usage of biofertilizers is not 
+at the expected level. The distribution of production and usage across the country is also skewed with south zone dominating both in terms of production and consumption of biofertilizers. Popularization of biofertilizers developed by ICAR is the immediate concern. 
+This compendium entitled “ICAR Technologies: Biofertilizers 
+for Sustainable Crop Production” is a compilation of validated biofertilizers developed by constituent ICAR institutes over the decades. I am hopeful that this publication would be useful for researchers, scientists, students and other stakeholders interested in this area. It would also help to popularize the biofertilizer technologies developed by ICAR.
+Dated: 30
+th July, 2021 (T. Mohapatra)
+New Delhi
+vpREFacE
+Indian Council of Agricultural Research is the leader of 
+agricultural research in India developing a large number of 
+technologies adopted by farmers and other stakeholders. This has led to increased crop productivity in almost all the crops so that demands of a growing population are met adequately. The growth in agricultural production in the last few decades has been accompanied by a sharp increase in the use of chemical fertilizers, causing serious concern. Foremost among these concerns is the effect of excessive fertilizers on the quality of soil and ground water. As a consequence the soil health is compromised for productivity and over a period our soils are made sick with reduced fertility and eroded biodiversity. 
+The use of environmental friendly biofertilizers can cut down the 
+use of chemical fertilizers. Biofetilizers are the products containing living cells of different types of microorganisms that enrich the nutrient quality of soil. Bacteria, fungi and cyanobacteria (blue green algae) are considered as the potential candidates to be used as biofertilizers. Most biofertilizers belong to one of the following categories: nitrogen fixing; phosphate, potash and zinc solubilizing and mobilizing, and plant growth promoting rhizobacteria. The Gazette of India in its notification in April, 2014 also made provision for the production of microbial consortium. It is economical to use biofertilizers as they are a cheap source of nutrients when compared to chemical fertilizers. Biofertilizers in addition to different nutrients also provide certain growth promoting substances like hormones, vitamins, and amino acids that improve the plant health and vigour. 
+Keeping pace with the biofertilizer industry, several Institutes 
+of ICAR have developed biofertilizer technologies which have been validated under on-farm or multi-location trials. This compendium “ICAR Technologies: Biofertilizers for Sustainable Crop Production” is an intensive compilation and reflects the great efforts made by the scientists across various institutes to develop the technologies. viWith great pleasure I extend my sincere thanks to Dr. T. 
+Mohapatra, Hon'ble Secretary, Department of Agricultural Research 
+and Education (DARE) and Director General, ICAR, for insight, guidance and support in preparation of this compendium. I also thank the developers of biofertilizer technologies for their innovations and contributions. My appreciations are due to my colleagues at the Council and ICAR-NBAIM for bringing out this compendium  which will help in shaping Indian Agriculture more sustainable.
+(T.R. Sharma)
+Deputy Director General (Crop Science) 
+Indian Council of Agricultural Research
+viicONTENTS
+Foreword- Secretary, DARE and DG, ICAR iii
+Preface v
+Introduction ix
+Abbreviations x
+1. Bio NPK 01
+2. Bio Grow 02
+3. Bio Phos and Bio Phos+03
+4. Bio Zn 04
+5. Bio Potash 05
+6. Bio Bacter 06
+7. RhizoNBAIM 07
+8. PUSA Algal Biofertilizer 08
+9. IARI Azotobacter 09
+10. PUSA Azospirillum 10
+11. PUSA Rhizobium 11
+12. PUSA BIOPHOS 12
+13. PUSA Mycorrhiza 13
+14. PUSA BIOPOTASH 14
+15. PUSA BioZinc 15
+16. NPK Biofertilizer 16
+17. PUSA SAMPOORN 17
+18. Biofort IARI 18
+19. Cyanobiocon 19
+20. Cyanonutricon 20viii21 CRIDA Resilia-I 21
+22. CRIDA Resilia-II 22
+23. Biocapsules 23
+24. Arka Microbial Consortium 24
+25. Arka Actinoplus 25
+26. Kera ProbioTM26
+27. Cocoa ProbioTM27
+28. KerAMTM28
+29. NutBoost 29
+30. NutMagic 30
+31. NutGrow 31
+32. DroughtGuard 32
+33. SalGuard 33
+34. Fytoprost 34
+35. GoaBio-1 35
+36. GoaBio-2 36
+37. NRRI-EndoN 37
+38. NRRI-RhizoN 38
+39. Shatpada Plant Growth Booster 39
+40. CIARI-Bioconsortia 40
+41. CIARI-GroPro 41INTR oDucTI oN
+Microorganisms, as an important driver of biogeochemical 
+cycles, play a key role in soil fertility and nutrient uptake by plants. 
+Biofertilizers include nitrogen fixing, phosphate, potassium and zinc solubilising; nutrient mobilizing microorganisms used for application to seed or soil. The manipulation of rhizosphere of plants leads to increase in numbers of such microorganisms and thereby accelerate the microbial processes which augment the availability of nutrients that can be assimilated by plants. Biofertilizers are economical and ecofriendly alternative of chemical fertilizers. Integrated nutrient management (INM) considers biofertilizers as an important component and advocates judicious application of fertilizers along with organic manures and biofertilizers which is imperative to sustain crop production and maintenance of soil health in the long term.
+Rhizosphere bacteria that favourably influence plant growth 
+and yield of crop plants are designated as plant growth promoting rhizobacteria (PGPR). They not only influence plant growth but also help the plants to overcome abiotic and biotic stresses.
+In India, biofertilizer industry has developed over years and 
+many significant changes have taken place. The shift from carrier based to liquid formulations, inclusion of microbial consortium in Fertilizer Control Order (FCO), increase in numbers of efficient strains have led to the surge in production of biofertilizers. ICAR is continuously striving to develop quality assured biofertilizers using efficient and competitive strains. This bulletin is a compilation of 41 biofertilizer technologies developed by ICAR that are at different stages of commercialization.
+ixxabbreviations
+AICRP All India Coordinated Research Project
+ATARI Agricultural Technology Application Research Institute
+CAZRI Central Arid Zone Research Institute
+CCARI Central Coastal Agricultural Research Institute
+CCC Cyanobacterial Culture Collection
+CCSRI C C Shroff Research Institute
+cfu Colony Forming Unit
+CIARI Central Island Agricultural Research Institute
+CICR Central Institute for Cotton Research
+CPCRI Central Plantation Crops Research Institute
+CRIDA Central Research Institute for Dryland Agriculture
+DARE Department of Agricultural Research and Education
+DGR Directorate of Groundnut Research
+FFP Farmers First Program
+FLD Frontline Demonstration
+FYM Farmyard Manure
+IARI Indian Agricultural Research Institute
+ICAR Indian Council of Agricultural Research
+IGFRI Indian Grassland and Fodder Research Institute
+IIHR Indian Institute of Horticultural Research
+IIPR Indian Institute of Pulses Research
+IISR Indian Institute of Soybean Research
+KVK Krishi Vigyan Kendra
+MCC Microbial Culture Collection (now National Centre for Microbial Resource)
+MTCC Microbial Type Culture Collection
+MULLaRP Mungbean, Urdbean, Lentil, Lathyrus, Rajmash and Pea
+NAIMCC National Agriculturally Important Microbial Culture Collection
+NBAIM National Bureau of Agriculturally Important Microorganisms
+NBAIR National Bureau of Agricultural Insect Resources
+NCIM National Collection of Industrial Microorganisms
+NEH North Eastern Hills
+NIASM National Institute of Abiotic Stress Management
+NMSA National Mission on Sustainable Agriculture
+NRRI National Rice Research Institute
+NSP National Seed Project
+OFT On Farm Trial
+PGPR Plant Growth Promoting Rhizobacteria
+PSB Phosphate Solubilizing Bacteria
+RDF Recommended Dose of Fertilizers
+RRS Regional Research Station
+UAS University of Agricultural Sciences1
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter chroococcum  W5 
+(NAIMCC-B-00061/MTCC 25045), Paenibacillus tylopili 
+(NAIMCC-B-01548) and Bacillus decolorationis  (MTCC 
+25044)
+ y Type: Liquid formulation; 2 × 108 cfu/mL of each 
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Wheat, rice, maize, chickpea, soybean, papaya, fodder oat and berseem
+ y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) and soil application for tree plants (10 mL/tree)
+ y Target agroecological zones/states: Delhi, Punjab, Haryana, Uttar Pradesh, Gujarat, Bihar and Manipur
+ y Validation: AICRPs on Maize and Groundnut for two years; at ICAR-IGFRI, 
+Jhansi on fodder oats and berseem for two years; AICRP on NSP (Crops) for two years; Two years on-farm trials with rice and wheat in Uttar Pradesh and Punjab; One year on papaya in Bihar, on chickpea and soybean in Uttar Pradesh  
+ y commercialization: Commercialized in 2017; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits:
+  Saves chemical fertilizers up to 25-30 kg N, 10-15 kg P and 2-5 kg K/ha
+  5-10% increase in grain yield in rice, wheat and maize
+  Net saving of
+ ` 1000-3000/ha in target crops
+ y cost: ` 50/- per 100 mL1.  Bio NPK
+Effect of BioNPK on wheat var. HD2967 at ICAR-NBAIM, Mau during 2016-17Control Treated
+Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in2
+Icar TechnologIes: B Iofer TIlIzers y Microbial  c onstituents:  Bacillus  sp.  BC39 
+(NAIMCC-B-02720), B. subtilis  RC25 (NAIMCC-B-02721), 
+Pseudomonas fluorescens KC30 (NAIMCC-B-02722) and 
+Pseudomonas  sp. KC31 (NAIMCC-B-02723)
+ y Type: Liquid formulation; 2 × 107 cfu/mL of each
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Tomato, chilli, egg plant, marigold and tuberose
+ y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre) 
+ y Target agroecological zones/states: Uttar Pradesh and Haryana
+ y Validation: On-farm trials at ICAR-NBAIM, Mau on tomato and chilli; farmers’ fields on tomato, potato and marigold in Mau and Varanasi; UAS, Shivamogga on chilli for two years
+ y commercialization: Commercialized in 2017; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits:  
+  25-30% increase in yield of tomato
+  Enhanced content of lycopene and β-carotene 
+  Prolonged growth of marigold with two additional pickings of flower
+ y cost:
+ ` 50/- per 100 mL2. Bio Grow
+Effect of Bio Grow on tomato var. Dev-Daksh at ICAR-NBAIM, Mau during 2015-16Control                                                                        Treated
+Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 3
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Kluyvera 
+cryocrescens (Bio Phos; NAIMCC-B-02041) 
+and Paenibacillus tylopili (Bio Phos+; 
+NAIMCC-B-01548)
+ y Type: Liquid formulation; 1 × 109 cfu/mL 
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Wheat, maize, rice, mustard 
+and chickpea
+ y Method of application: Seed treatment (100 
+mL formulation diluted to one litre with water for seeds to be sown in one acre)
+ y Target agroecological zones/states: Delhi, Punjab, Haryana, Uttar Pradesh, Gujarat, Bihar, Manipur and Karnataka
+ y Validation: AICRP on Maize at 22 locations for two years; OFT at ICAR-NBAIM, Mau on wheat, maize, rice and mustard for two years; farmers’ fields in Uttar Pradesh, Bihar and Punjab on wheat and maize; UAS, Shivamogga on chickpea for two years 
+ y commercialization: Commercialized in 2017; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits:  
+  Save chemical fertilizers up to 25-30 kg P/ha
+  7-11% increase in grain yield of maize, wheat, rice and mustard 
+ y cost:
+ ` 50/- per 100 mL3. Bio Phos and Bio Phos+ 
+Control                                                                        Treated
+Evaluation of Bio Phos on maize var. Bio 9637 at ICAR-NBAIM, Mau during 2017-18
+Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 4
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus endophyticus 
+(NAIMCC-B-01543)
+ y Type: Liquid formulation; 1 × 109 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Wheat, maize and soybean
+ y Method of application: Seed treatment (100 mL formulation diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre)
+ y Target agroecological zones/states: Delhi, Punjab and Uttar Pradesh
+ y Validation: ICAR-NBAIM, Mau on wheat and maize; farmers’ fields in Mau and Azamgarh on wheat, ICAR-IARI, New Delhi on soybean
+ y commercialization: Commercialized in 2017; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits:  
+  Saves chemical fertilizer up to 2-5 kg Zn/ha
+  5-10% increase in grain yield
+  Improves uptake of Zn in seeds
+ y cost:
+ ` 50/- per 100 mL4. Bio Zn
+Effect of Bio Zn inoculation on accummulation of Zn in maize roots visualized through 
+Dithiozone stainingControl                                                                        Treated
+Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 5
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus decolorationis  (MTCC 25044)
+ y Type: Liquid formulation; 1 × 109 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Maize, wheat, mustard and potato
+ y Method of application: Seed treatment (100 mL formulation 
+diluted to one litre with water for seeds to be sown in one acre)
+ y Target agroecological zones/states: Delhi, Punjab, Uttar Pradesh and Uttarakhand
+ y Validation: In wheat, mustard and maize at ICAR-NBAIM, Mau; on potato in 
+farmers’ fields at Dehradun
+ y commercialization: Commercialized in 2017; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits:
+  Augments 10-15 kg K/ha
+  2-5% increase in yield
+ y cost:
+ ` 50/- per 100 mL5. Bio Potash
+Control                                                                        Treated
+Evaluation of Bio Potash on maize var. Bio 9637 at ICAR-NBAIM, Mau during 2017-18
+Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 6
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter chroococcum  
+(NAIMCC-B-00061/MTCC 25045)
+ y Type: Liquid formulation; 1 × 109 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Wheat, rice and maize
+ y Method of application: Seed treatment (100 mL formulation 
+diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre)
+ y Target agroecological zones/states: Delhi, Punjab and Uttar Pradesh
+ y Validation: ICAR-NBAIM, Mau on wheat, rice and maize; farmers’ fields in Mau 
+and Varanasi on wheat
+ y commercialization: Commercialized in 2017; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits:
+  Saves 20-25 kg N/ha
+  Increases yield by 5-7%
+ y cost:
+ ` 50/- per 100 mL 6. Bio Bacter
+Effect of Bio Bacter on wheat var. HD2967 at ICAR-NBAIM, Mau during 2017-18Control                                                                        Treated
+Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in 7
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Nitrogen fixing rhizobial strains 
+specific to chickpea, pigeon pea, black gram, pea and lentil
+  Chickpea: Mesorhizobium ciceri Ca7 (NAIMCC-B-02476)
+  Pigeon pea: Bradyrhizobium yuanmingense  APP151 
+(NAIMCC-B-02407)
+  Green gram: Bradyrhizobium  yuanmingense MV3 
+((NAIMCC-B-02475)
+  Pea: Rhizobium multihospitium P15 (NAIMCC-B-02717) 
+  Lentil: Rhizobium lentis LTL3 (NAIMCC-B-02478)
+ y Type: Liquid formulation; 1 × 109 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Specific rhizobia for each of the pulse crops viz., chickpea, pigeon 
+pea, green gram, pea and lentil
+ y Method of application: Seed treatment (100 mL formulation diluted to one litre 
+with water for seeds to be sown in one acre)
+ y Target agroecological zones/states: Uttar Pradesh
+ y Validation: ICAR-NBAIM, Mau on chickpea, pigeon pea, green gram and lentil; 
+farmers’ fields on chickpea at Mau
+ y commercialization: Commercialized in 2018; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits:
+  Saves 25-30 kg N/ha
+  Increases yield by 7-10%
+ y cost: ` 50/- per 100 mL 7. RhizoNBAIM
+Effect of RhizoNBAIM on chickpea var. Pusa 362 at ICAR-NBAIM, Mau during 2019-20Control                                                                        Treated
+Contact:Director, ICAR-National Bureau of Agriculturally Important Microorganisms, Mau- 275103; e-Mail: director.nbaim@icar.gov.in8
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Anabaena 
+variabilis  (CCC 421), Nostoc muscorum  
+(CCC 442), Aulosira fertilissima  (CCC 444) 
+and Tolypothrix tenuis (CCC 443)
+ y Type: Multani Mitti based formulation; 104 
+propagules/g
+ y Shelf life: 03 months at 25°C to 35°C
+ y Target crop: Rice
+ y Method of application: Soil application 
+(500 g/acre)
+ y Target agroecological zones/states: Punjab, Delhi, Uttar Pradesh, Haryana and Bihar
+ y Validation: Multilocational trials on rice for 20 years  
+ y commercialization: On sale counters in the Division of Microbiology, ICAR-IARI, 
+New Delhi since 1970s; Commercialized in 2010; Licensed to three entrepreneurs
+  Sai Bio Organics, Moga, Punjab
+  Ecological Products Industries, New Delhi
+  Forex Fastners (P) Ltd., Punjab
+ y Benefits:
+  Saves 20-30 kg N/ha 
+  Induces early grain setting
+ y cost:
+ ` 50/- per 500 g8. PUSA Algal Biofertilizer
+Evaluation of Pusa Algal Biofertilizer on rice var. Pusa Sugandh 5 
+at ICAR-IARI, New Delhi during 2007Treated Control                                                                        
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012;  e-Mail: director@iari.res.in9
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter chroococcum W5 
+(NAIMCC-B-00061) 
+ y Type: Carrier based; 1 × 108 cfu/g; Liquid formulation; 1 × 109 
+cfu/mL
+ y Shelf life: 03 months for carrier based formulation; 36 months 
+for liquid formulation at 25°C to 35°C
+ y Target crops: Cotton, wheat, maize, potato, brinjal, pearl millet, mustard and onion
+ y Method of application: Seed treatment (50 mL formulation diluted to one litre with water for seeds to be sown in one acre; 
+or 200 g for coating seeds for one acre)
+ y Target agroecological zones/states: All states 
+ y Validation: Multilocational trials on different crops for 30 years 
+ y commercialization: On sale counters in the Division 
+of Microbiology, ICAR-IARI, New Delhi since 1976; 
+Commercialized in 2010; Licensed to four companies
+  Sai Bio Organics, Moga, Punjab
+  Eco Inputs, Ludhiana
+  HBPL, East Champaran, Bihar
+  Department of Horticulture, Hoshiarpur, Punjab
+ y Benefits:
+  Saves 15-20 kg N/ha 
+  10-35% increase in grain yield 
+ y cost:
+ ` 50/- per 200 g;  ` 75/- per 50 mL9. IARI Azotobacter 
+Effect of IARI Azotobacter on brinjal at ICAR-IARI, New Delhi during 2002-03Control                                                                        Treated
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in10
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azospirillum brasilense 
+ y Type: Carrier based formulation; 1 × 108 cfu/g
+ y Shelf life: 03 months at 25°C to 35°C
+ y Target crops: Sorghum, pearl millet, finger millet, Italian 
+millet, kodo millet, barn yard millet, small millet, oats, rice and sugarcane
+ y Method of application: Seed treatment (200 g for coating seeds for one acre)
+ y Target agroecological zones/states: All states
+ y Validation: Multilocational trials on target crops for 30 years  
+ y commercialization: On sale counters in the Division of Microbiology, ICAR-
+IARI, New Delhi since 1982; Registered at Zonal Technology Management & Business Planning and Development Unit, ICAR-IARI, New Delhi
+ y  Benefits:
+  Saves 15-20 kg N/ha 
+  10-35% increase in grain yield 
+ y cost:
+ ` 50/- per 200 g10. PUSA Azospirillum
+Effect of PUSA Azospirillum on sorghum at ICAR-IARI, New Delhi during 2002-03Control                                                                        Treated
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in11
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Rhizobial strains specific to 
+different pulse crops- chickpea (Mesorhizobium ciceri), 
+pigeon pea (Bradyrhizobium yuanmingense ), black gram 
+and cowpea [Bradyrhizobium sp. ( Vigna )], pea and 
+lentil (Rhizobium leguminosarum  bv. viceae ), groundnut 
+[Bradyrhizobium sp. ( Arachis )], berseem (Rhizobium 
+leguminosarum  bv.  trifolii ), lucerne (Rhizobium meliloti ), 
+dhaincha ( Azorhizobium caulinodans ) and sunhemp 
+[Bradyrhizobium sp. ( Crotolaria )]
+ y Type: Carrier based formulation; 1 × 108 cfu/g
+ y Shelf life: 03 months at 25°C to 35°C
+ y Target crops: Chickpea, pigeon pea, black gram, pea, 
+lentil, groundnut, cowpea, berseem, lucerne, dhaincha and sunhemp
+ y Method of application: Seed treatment (200 g for coating seeds for one acre)
+ y Target agroecological zones/states: All states – Pulse growing areas
+ y Validation: AICRPs on MULLaRP , Chickpea and Soybean; Multilocational trials 
+for more than 30 years
+ y commercialization: On sale counters in the Division of Microbiology, ICAR-
+IARI, New Delhi since 1970s; Licensed to one entrepreneur 
+  Sai Bio Organics, Moga, Punjab
+ y Benefits:
+  Saves 15-25 kg N/ha
+  Increases yield by 30-60% in target crops 
+ y cost:
+ ` 50/- per 200 g11. PUSA Rhizobium
+Effect of PUSA Rhizobium on Chickpea at ICAR-IARI, New Delhi during 2014Control                                                                        Treated
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in
+12
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Lactococcus lactis PHM5-37 
+ y Type: Carrier based; 1 × 108 cfu/g; Liquid formulation; 1 × 109 
+cfu/mL 
+ y Shelf life: 03 months for carrier based and 12 months for liquid 
+formulation at 25°C to 35°C
+ y Target crops: Wheat, rice, cowpea, soybean, lentil, gram and potato 
+ y Method of application: Seed treatment (50 mL formulation diluted to one litre with water for seeds to be sown in one acre; or 200 g for coating seeds for one acre)
+ y Target agroecological zones/states: All states
+ y Validation: ICAR-IARI, New Delhi on wheat, rice, cowpea, 
+soybean, lentil and gram for four years
+ y commercialization: Licensed to Department of Horticulture, 
+Hoshiarpur, Punjab
+ y Benefits:
+  Saves 10-15 kg P/ha
+  Increases yield by 15-20%
+ y cost:
+ ` 50/- per 200 g;  ` 75/- per 50 mL12. PUSA BIOPHOS
+Effect of PUSA BioPhos on Lentil var. L4076 at ICAR-IARI, New Delhi during 2017-18Control                                                                        Treated
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012;  e-Mail: director@iari.res.in13
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Funneliformis  mosseae  (=Glomus 
+mosseae ), Rhizophagus  intraradices  (=G. intraradices ) and 
+Scutellospora  sp. 
+ y Type: Soil based formulation; 100 infective propagules/g 
+soil
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: Nursery raised crops, crops grown under 
+protected cultivation; useful in tissue culture crops where it 
+helps in hardening the roots before transplanting
+ y Method of application: Soil application (5 kg/acre)
+ y Target agroecological zones/states: All states
+ y Validation: Multilocational trials on different crops for 20 years  
+ y commercialization: Commercialized in 1985; Licensed to twenty five 
+entrepreneurs. Few are listed here
+  Patanjali, Haridwar, Uttrakhand
+  Bharat Agro Molecules Ltd., Meerut, Uttar pradesh
+  Pratishtha Industries Ltd., Secunderabad, Uttar pradesh
+  Vaishnavi Biotech Ltd., Secunderabad, Uttar pradesh
+  Prabhat Fertilizer and Chemical Works, Karnal, Haryana
+ y Benefits:
+  Improves crop yield by 15-25% 
+  Improves P-uptake in crops under P-deficient soil conditions 
+  Sustains the crop under water stress conditions and improves soil aggregation
+  Enhances microbial population near the roots and enhances uptake of micro-(Zn, B, Cu, Fe etc.) and macro-nutrients like N & P 
+ y cost:
+ ` 50/- per kg13. PUSA Mycorrhiza
+Production of AM fungi using (a) Cenchrus  ciliaris  as host and (b) root colonization by AM fungi
+a b
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in14
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus sp . 
+ y Type: Liquid formulation; 1 × 107 cfu/mL 
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Maize, wheat, rice and pearl millet
+ y Method of application: Seed treatment (50 mL 
+formulation diluted to one litre with water for seeds to 
+be sown in one acre)
+ y Target agroecological zones/states: Delhi, Punjab, Bihar, Jharkhand, West Bengal, Odisha, Chhattisgarh, Madhya Pradesh and Rajasthan
+ y Validation: In wheat and maize at ICAR-IARI, New 
+Delhi for two years; Three years on rice, wheat and pearl millet in collaboration with KVKs of target states
+ y commercialization: Licensed to Department of 
+Horticulture, Hoshiarpur, Punjab 
+ y Benefits:
+  Augments 10-15 kg K/ha
+  2-5% increase in yield
+ y cost:
+ ` 75/- per 50 mL 14. PUSA BIOPOTASH
+Evaluation of PUSA BIOPOTASH on wheat var. HD2967 
+at ICAR-IARI, New Delhi during 2016Control                                                                        Treated
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in15
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus sp.
+ y Type: Liquid formulation; 1 × 108 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Wheat, soybean, rice and pearl millet
+ y Method of application: Seed treatment (50 mL formulation 
+diluted to one litre with water for seeds to be sown in one acre)
+ y Target agroecological zones/states: Delhi, Punjab, Uttar Pradesh, Bihar, Jharkhand, West Bengal, Odisha, Chhattisgarh, Madhya Pradesh, Rajasthan, Gujarat, Uttarakhand and Haryana
+ y Validation: ICAR-IARI, New Delh on soybean and wheat for two years; Three years on rice, wheat and pearl millet in collaboration with KVKs of target states
+ y commercialization: Commercialized in 2013; Licensed to M/s Kirti International, 
+Ludhiana, Punjab 
+ y Benefits:
+  Augments 2 to 5 kg Zn/ha
+ y cost:
+ ` 75/- per 50 mL15. PUSA BioZinc
+Control                                                                        Treated
+Evaluation of PUSA BioZinc on wheat var. HD2967 at ICAR-IARI, 
+New Delhi during 2013-14
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in16
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter chroococcum (MTCC 
+25045), Burkholderia cepacia  (MTCC 25043) and Bacillus 
+decolorationis ( MTCC 25044)
+ y Type: Liquid formulation; 2 × 108 cfu/mL of each
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Wheat, rice, citrus, turmeric and garlic
+ y Method of application: Seed treatment (100 mL formulation 
+diluted to one litre with water for seeds to be sown in one acre); 
+root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) and soil application 
+for tree plants (10 mL/tree)
+ y Target agroecological zones/states: Bihar, Jharkhand, West Bengal, Odisha, 
+Chhattisgarh, Madhya Pradesh, Punjab, Rajasthan, Gujarat, Delhi, Uttarakhand and Haryana
+ y Validation: Two years on-farm trials at ICAR-IARI, New Delhi and farmers’ fields 
+at Punjab with rice and wheat; One year on citrus in Punjab, on garlic and turmeric in Gujarat; Three years on rice, wheat and pearl millet in collaboration with KVKs of target states
+ y commercialization: Commercialized in 2015; Licensed to two entrepreneurs
+  M/s Monal Potteries and Ceramics Ltd., Una, Himachal Pradesh
+  Pratishtha Industries Ltd., Secunderabad, Telangana
+ y Benefits:
+  Saves chemical fertilizers up to 25-30 kg N, 10-15 kg P and 2-5 kg K/ha
+  5-10% increase in grain yield in rice and wheat
+ y cost:
+ ` 125/- per 100 mL 16. NPK Biofertilizer
+Evaluation of NPK Biofertilizer on rice at ICAR-IARI, New Delhi during 2013-14
+Control                                                                        Treated
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in17
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter chroococcum W5 (MTCC 
+25045), Pseudomonas psychrophila and  Bacillus decolorationis 
+ y Type: Liquid formulation; 2 × 108 cfu/mL of each
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: Wheat and rice
+ y Method of application: Seed treatment (100 mL formulation 
+diluted to one litre with water for seeds to be sown in one acre); root dip for seedlings (500 mL formulation diluted to 2.5 L with water for seedlings to be planted in one acre) 
+ y Target agroecological zones/states: Delhi, Punjab and  Haryana
+ y Validation: Four years on-farm trials at ICAR-IARI, New Delhi with rice and 
+wheat
+ y commercialization: Available for licensing through Agrinnovate India Ltd. 
+(www.agrinnovateindia.co.in)
+ y Benefits:
+  Saves chemical fertilizers up to 25-30 kg N, 10-15 kg P and 2-5 kg K/ha
+  5-10% increase in grain yield in rice and wheat
+ y cost:
+ ` 100/- per 100 mL 17. PUSA SAMPOORN
+Evaluation of PUSA SAMPOORN on wheat var. HD2967  
+at ICAR-IARI, New Delhi during 2017-18Control                                                                        Treated
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in18
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Biofort (W)-Bacillus 
+pumilus  PW1 (NAIMCC-B-00550) + Providencia 
+sp. PW5 (NAIMCC-B-00557) + Brevundimonas 
+diminuta  PW7 (NAIMCC-B-00559); Biofort (R)- 
+Providencia sp. PR3 (NAIMCC-B-00563)+ B. 
+diminuta PR7 (NAIMCC-B-00566)+ Ochrobactrum 
+anthropi  PR10 (NAIMCC-B-00568)
+ y Type: Carrier based formulation; 3 × 109 cfu/g 
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: Biofort (W) for wheat and Biofort (R) 
+for rice
+ y Method of application: Seed coating; soil application or seedling dip (500 g/acre) 
+ y Target agroecological zones/states: Delhi, Punjab, Haryana and Andhra Pradesh
+ y Validation: Five years in rice-wheat cropping system at ICAR-IARI, New Delhi; 
+On-farm trials at KVKs of Andhra Pradesh with rice; Ambala District, Haryana with rice for one year
+ y commercialization: Commercialized in 2015; Registered at Zonal Technology 
+Management & Business Planning and Development Unit, ICAR-IARI, New Delhi
+ y  Benefits:
+  Effective micronutrient mobilization to grains, with 13–40% increase in Fe, Zn and Mn concentrations
+  Saves chemical fertilizers up to 30-50 kg N/ha
+  10-15% increase in yield in target crops18. Biofort IARI
+Influence of Biofort IARI application in wheat var. HD 2967at ICAR-IARI, New Delhi  
+during 2017-18a. Control-100% NPK (RDF) b. 50% N + Full dose of P & K + Biofort IARI
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in
+19
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Anabaena laxa/Calothrix 
+elenkinii  
+ y Type: Carrier based formulation; 2-5 µg Chlorophyll/g
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: Tomato, cucumber, capsicum, cotton, 
+rice, chickpea and chrysanthemum
+ y Method of application: Seed coating (1.25 kg/ha); soil 
+application (1.25 kg suspended in 500 L water for one ha) or seedling dip (1.25 kg suspended in 25 L water for one ha)
+ y Target agroecological zones/states: Delhi, Punjab, Haryana, Himachal Pradesh, Uttarakhand, Rajasthan, Madhya Pradesh and  Maharashtra
+ y Validation: Five years under Centre for Protected Cultivation Technology in 
+vegetables and flower crops at ICAR-IARI, New Delhi; Three years field trials in cotton, at ICAR-Central Institute for Cotton Research, Sirsa and Nagpur; Two years with capsicum and tomato, at ICAR-IARI Regional station, Katrain; okra and cucumber at ICAR-Indian Institute of Vegetable Research, Varanasi Uttar Pradesh; Two years in chrysanthemum and tomato at ICAR-IARI, New Delhi; One year with rice in Ambala District, Haryana
+ y commercialization: Commercialized in 2015; Registered at Zonal Technology 
+Management & Business Planning and Development Unit, ICAR-IARI, New Delhi
+ y Benefits:
+  Significant enhancement of plant growth, N and P uptake
+  Elicits immunity against soil borne fungal diseases 
+  Saves chemical fertilizers up to 30-50 kg N/ha
+  10-12% increase in yields19. Cyanobiocon
+Influence of Cyanobiocon application in chickpea var. Pusa 1103 
+at ICAR-IARI, New Delhi during 2013-14
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in 
+20
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Anabaena torulosa  
+BF1 (NAIMCC-C-00344), Nostoc  carneum  
+BF2 (NAIMCC-C-00345), Nostoc piscinale  BF3 
+(NAIMCC-C-00346) and Anabaena doliolum BF4 
+(NAIMCC-C-00347)
+ y Type: Carrier based formulation; 2-5 µg Chlorophyll/g
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: Rice, wheat, maize, cotton, vegetables 
+and flower crops
+ y Method of Application along with dose: Seed coating (1.25 kg/ha), soil application (1.25 kg suspended in 500 L water for one ha) or seedling dip (1.25 kg suspended in 25 L water for one ha)
+ y Target agroecological zones/states: Delhi, Punjab, Haryana, Andhra Pradesh, 
+Telangana and Maharashtra
+ y Validation : Five years in rice-wheat cropping system at ICAR-IARI, New Delhi; 
+Two years under Centre for Protected Cultivation Technology in vegetables and 
+flower crops at ICAR-IARI, New Delhi; On-farm trials at KVKs of Andhra Pradesh and Telangana in rice; Ambala District, Haryana in rice for two years; One year with cotton at ICAR-Central Institute for Cotton Research, Nagpur
+ y commercialization: Commercialized in 2015; Registered at Zonal Technology 
+Management & Business Planning and Development Unit, ICAR-IARI, New Delhi 
+ y Benefits:  
+  10–20% increase in grain micronutrients
+  Saves 30-50 kg N/ha
+  10-15% increase in yields
+  Enrichment of soil carbon 20. Cyanonutricon
+Influence of Cyanonutricon on rice var. Pusa Basmati 1509 at ICAR-IARI New Delhi during 2019
+Control- 100% NPK (RDF) 50% N+ 100% P & K + Cyanonutricon
+Contact:Director, ICAR-Indian Agricultural Research Institute, New Delhi-110012; e-Mail: director@iari.res.in21
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Pseudomonas 
+putida P7 (NAIMCC-B-00922) 
+and Paenibacillus favisporus B30 
+(NAIMCC-B-01801)
+ y Type: Carrier based formulation; 1 × 108 
+cfu/g
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: Maize and rabi sorghum
+ y Method of application: Seed treatment  
+30 g/kg seeds; soil application 2.5 kg/ha 
+(Mix with 50 kg of well decomposed FYM and apply to one hectare)
+ y Target agroecological zones/states: Punjab, Karnataka and Telangana
+ y Validation: On-farm trials at ICAR-CRIDA, Hyderabad with maize and sorghum 
+for three years; AICRP on Dryland Agriculture at Ballowal Saunkhri, Punjab for 
+three years
+ y commercialization: Available for licensing
+ y Benefits:
+  20-30% increase in yield of maize and rabi sorghum21. CRIDA Resilia-I
+Response of maize var. PMH-1 at Ballowal Saunkhri, Punjab during 2019-20  Control Treated
+Contact:Director, ICAR-Central Research Institute for Dryland Agriculture, Santoshnagar, Hyderabad-500 059; e-Mail: director.crida@icar.gov.in22
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Pseudomonas 
+putida P45 (NAIMCC-B-00923) 
+and Bacillus amyloliquefaciens B17 
+(NAIMCC-B-00921)
+ y Type: Carrier based formulation; 1 × 108 
+cfu/g
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crop: Sorghum
+ y Method of application: Seed treatment 
+30 g/kg seeds + soil application 2.5 kg/ha (Mix with 50 kg of well decomposed FYM and apply to one hectare)
+ y Target agroecological zones/states: Maharashtra and Telangana
+ y Validation: On-farm trials at ICAR-CRIDA, Hyderabad with sorghum for three years; AICRP on Dryland Agriculture at Parbhani, Maharashtra for three years
+ y commercialization: Available for licensing
+ y Benefits:
+  15-20% increase in yield of sorghum22. CRIDA Resilia-II 
+Response of sorghum var. CSV-27 at Parbhani, Maharashtra during 2019-20Control Treated
+Contact:Director, ICAR-Central Research Institute for Dryland Agriculture, Santoshnagar, Hyderabad-500 059; e-Mail: director.crida@icar.gov.in23
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Capsule can act as a 
+carrier for any bacterial/fungal strain (Rhizobium , 
+Azotobacter, Pseudomonas fluorescens, Bacillus, 
+Burkholderia and  Trichoderma )
+ y Type: Capsules; 1 × 1012 cfu/capsule
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crops: All plantation and horticultural crops
+ y Method of application:  Soil drenching using 8-10 capsules per acre; one capsule suspended in 1000 mL water and finally diluted to 100 L
+ y Target agroecological zones/states: All
+ y Validation: Farmers’ fields at Kerala, Karnataka, Tamil Nadu, Andhra Pradesh, Maharashtra, Madhya Pradesh, Gujarat, Uttar Pradesh and Himachal Pradesh
+ y commercialization: Commercialized in 2016; Licensed to two companies
+  M/s Codagu Agritech, Kudulur, PB No. 58, Kushalnagar-571234, Karnataka
+  M/s SRT Agro Science Pvt. Ltd. Vill: Funda, Tah: Patan, Durg-491111, 
+Chhattisgarh
+ y Benefits:
+  Enhances root production, nutrient mobilization and use efficiency, crop 
+growth and yield
+  Protect crops against soil borne pathogens23. Biocapsules
+Trichoderma sp. and  Bacillus 
+amyloliquefaciens capsules Rhizobium and Azotobacter capsules 
+Contact:Director, ICAR-Indian Institute of Spices Research, Marikunnu PO, Kozhikode-673012; e-Mail: director.spices@icar.gov.in 24
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Azotobacter tropicalis  PAN MC1 
+(NAIMCC-B-01336) (Nitrogen fixer), Bacillus aryabhattai 
+Bel 6 (NAIMCC-B-01335) (P & Zn solubilizer) and 
+Pseudomonas taiwanensis Mpf2 (NAIMCC-B-01337) (K-solubilizer and PGPR)
+ y Type: Carrier based formulation; 1 × 10
+8 cfu/g of each; 
+Liquid formulation; 1x 109 cfu/mL of each
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: All annual and perennial horticultural and 
+plantation crops.
+ y Method of application: Seed treatment; biofertigation 
+through drip lines, soil drenching (3 L/acre or 5 kg/acre) 
+ y Target agroecological zones/states: Karnataka, Tamil Nadu, Kerala, Telangana, Andhra Pradesh and Maharashtra
+ y Validation: AICRP on Fruits with guava and papaya for 
+two years; ATARI, Zone VIII for two years on a variety of vegetables; on different horticultural crops at ICAR-IIHR, Bengaluru for three years
+ y commercialization: Commercialized in 2013; Licensed to 13 entrepreneurs/
+KVKs/State departments
+  M/s Bloom  Biotech, Chikkamagaluru, Karnataka 
+  M/s Gayatri Hasiru Uddime , Ramnagara District, Karnataka 
+  ICAR-KVK, Hirehalli , Tumakuru District, Karnataka  
+  Department of Horticulture, Bengaluru, Karnataka
+  M/s Phalada Organics, Bengaluru, Karnataka  
+  ICAR- KVK, Gonikoppal , Kodagu District, Karnataka 
+  M/s Natura Crop Care, Bengaluru, Karnataka
+  M/s Janardhana, Bengaluru, Karnataka 
+  M/s Bhavani Biochemicals, Koppal, Karnataka
+  M/s ESAF Swarasya Farmers Producers Organization, Palakkad, Kerala  
+  M/s Ganpath Products, Madurai, Tamil Nadu
+  M/s JSS Krishi Vigyan Kendra, Mysuru, Karnataka 
+  State Parasite Breeding Farm , Kasaragod , Kerala
+ y Benefits:
+  Saves 25% of N and P fertilizers
+  Enhances yield by 10 to 15% in target crops 
+  Net savings of
+ ` 1000-3000/ha in target crops
+ y cost: ` 147/- per kg and  ` 263/- per litre24. Arka Microbial Consortium
+Contact:  
+Director, ICAR- Indian Institute of Horticultural Research, Hesaraghatta Lake Post, 
+Bengaluru-560089; e-Mail: director.iihr@icar.gov.in25
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Streptomyces viridobrunneus Pan 
+Act1 (MTCC 11933), S. bullii Pan Act2 (MTCC 11934) 
+and S. griseorubens Pan Act3 (MTCC 11935)
+ y Type: Carrier based; 1 × 106 cfu/g of each
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: All annual and perennial horticultural and plantation crops.
+ y Method of application: Seed treatment, soil drenching, enrichment of FYM and cocopeat used for raising nurseries and applied at 5 kg/acre. For annual crops it can be applied once during the crop cultivation period, preferably within 10 days 
+of transplantation/sowing. For perennial crops, it can be applied at four monthly 
+intervals with the first application commencing in the month of June/July
+ y Target agroecological zones/states: Karnataka, Tamil Nadu, Kerala, Telangana, Andhra Pradesh and Maharashtra
+ y Validation: Validated through extensive institutional trials at ICAR-IIHR, 
+Bengaluru on a variety of horticultural crops and through the ATARI of Zone VIII in different vegetable crops
+ y commercialization: Commercialized in 2015; Licensed to two entrepreneurs
+  M/s Bloom Biotech, Chikkamagaluru, Karnataka
+  M/s Natura Crop Care, Bengaluru, Karnataka 
+ y Benefits:
+  Saves 25% of P fertilizers
+  Improves overall plant health
+ y cost:
+ ` 140/kg25. Arka Actino Plus
+Effect of Arka Actino Plus on vegetable Cowpea (Arka Garima) 
+at ICAR-IIHR, Bengaluru during 2020-21Control Treated
+Contact:Director, ICAR- Indian Institute of Horticultural Research, Hesaraghatta Lake Post, Bengaluru-560089; e-Mail: director.iihr@icar.gov.in26
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus megaterium 
+(NAIMCC-B-02718)
+ y Type: Carrier based formulation; 107-109 cfu/g 
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: Coconut, tomato, brinjal and chilli
+ y Method of application: Seedling dip (mix 500 
+g in 5 L of water and dip the coconut seedlings for 8-10 hrs); soil application (25 g per plant); for transplanted seedlings booster dose can be given at 50 g per plant; for vegetable crops at 2 kg/acre 
+ y Target agroecological zones/states: Kerala
+ y Validation: AICRP on Palms with coconut for 3 years; On-farm trials at ICAR-CPCRI, Kasaragod and farmers' fields, Kasaragod for one year
+ y commercialization: Commercialized in 2018; Licensed to entrepreneur group of 
+Farmers First Program (FFP) in Pathiyoor Panchayat of Alappuzha district, Kerala
+ y Benefits:
+  Yield enhancement of 10-12% nuts/palm/year
+  Incorporation in INM based farming could fetch additional remuneration of
+  
+` 20000/ha and  ` 30000-40000/ha if vegetables are taken as intercrop
+ y cost: ` 100/- per kg26. Kera ProbioTM
+Kera Probio treatment effect on coconut seedlings
+Control Treated
+Contact:
+Director, ICAR-Central Plantation Crops Research Institute, P .O Kudlu, Kasaragod-671124; e-Mail: director.cpcri@icar.gov.in 27
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Pseudomonas putida  
+(NAIMCC-B-02719)
+ y Type: Carrier based formulation; 107-109 cfu/g
+ y Shelf life: 06 months at 25°C to 35°C
+ y Target crops: Cocoa and Vegetable crops
+ y Method of application: Soil application (25 g per 
+plant); for transplanted seedlings booster dose can be given at 100 g per plant; for vegetable crops at 2 kg/acre 
+ y Target agroecological zones/states: Kerala, 
+Karnataka, Tamil Nadu, Andhra Pradesh and 
+Telangana
+ y Validation: ICAR-CPCRI farms and farmers’ fields of different cocoa growing areas of Kerala, Karnataka, Tamil Nadu, Andhra Pradesh and Telangana for two years
+ y commercialization: Available for licensing 
+ y Benefits:
+  50-60% increase in dry matter in seedlings
+ y cost:
+ ` 100/- per kg27. Cocoa ProbioTM
+Trials with cocoa var. forastero at ICAR-CPCRI, Kasaragod during 2013-14
+Contact:Director, ICAR-Central Plantation Crops Research Institute, P .O Kudlu, Kasaragod-671124; e-Mail: director.cpcri@icar.gov.in28
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Claroideoglomus 
+etunicatum
+ y Type: Carrier based formulation; 100 infective 
+propagules/g 
+ y Shelf life: 04 months at 25°C to 35°C
+ y Target crops: Coconut
+ y Method of application: Soil application (50 g/
+plant) 
+ y Target agroecological zones/states: Kerala, 
+Karnataka, Tamil Nadu, Andhra Pradesh and 
+Telangana
+ y Validation: ICAR-CPCRI farms and farmers’ fields in Kerala, Karnataka, Tamil Nadu, Andhra Pradesh and Telangana
+ y commercialization: Available for licensing 
+ y Benefits:
+  Improves overall plant growth
+  Better nutrient uptake28. KerAMTM
+Mixing of KerAM with nursery media KerAM treated coconut seedlings
+Contact:Director, ICAR-Central Plantation Crops Research Institute, P .O Kudlu, Kasaragod-671124; e-Mail: director.cpcri@icar.gov.in
+29
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Pseudomonas gessardii 
+BHU1, Pseudomonas putida S1(6) and Pseudomonas 
+aeruginosa BM6 
+ y Type: Carrier based formulation; 1 × 107 cfu/g of 
+each; Liquid formulation; 1 × 108 cfu/mL of each
+ y Shelf life: 12 months at 25°C to 35°C
+ y Target crop: Groundnut
+ y Method of application: Carrier based: 4 g of 
+formulation to be suspended in 50 mL of water 
+along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 
+mL of bioformulation diluted with 40 mL of water 
+along with 5 g of sugarcane jaggery and then mixed 
+with one kilogram of groundnut kernel
+ y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, 
+Maharashtra, Telangana, Tamil Nadu, Rajasthan, Odisha, West Bengal, NEH 
+region, Madhya Pradesh and Uttar Pradesh
+ y Validation: ICAR-DGR, Junagadh and farmers’ fields, Junagadh for three years; AICRP on Groundnut centres for three years; FLDs for two years in different states
+ y commercialization: Available for licensing through Agrinnovate India Ltd. (www.
+agrinnovateindia.co.in)
+ y Benefits:  
+  Enhances pod yield in groundnut upto 16 to 18%
+  Saves 30-40% of phosphatic and 25% of potassium fertilizers
+  Saves input cost by
+ ` 1000-2000/ha 29. NutBoost
+Effect of NutBoost on groundnut var. JL24 at ICAR-DGR, Junagadh during 2000-01
+Contact:
+Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in
+30
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Pseudomonas gessardii 
+BHU1 and Pseudomonas putida  S1(6) (PGPR); 
+Enterobacter cloacae  BM8 and Bacillus sp. (PSB); 
+Sinorhizobium americanum  NRCG4 and Rhizobium  
+sp. NRCG9 (Groundnut nodulating rhizobia)
+ y Type: Carrier based formulation; 1 × 107 cfu/g of 
+each; Liquid formulation; 1 × 108 cfu/mL of each
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crops: Groundnut
+ y Method of application: Seed treatment; Carrier 
+based: 4 g of formulation to be suspended in 50 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel
+ y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, Maharashtra, Telangana, Tamil Nadu, Rajasthan, Odisha, West Bengal, NEH region, Madhya Pradesh and Uttar Pradesh
+ y Validation: ICAR-DGR, Junagadh and farmers’ fields, Junagadh for three years; AICRP on Groundnut centres for three years; FLDs for two years in different states
+ y commercialization: Available for licensing through Agrinnovate India Ltd. (www.
+agrinnovateindia.co.in)
+ y Benefits: 
+  Pod yield enhancement upto 20%
+  Saves 25-30% of nitrogenous, 30-40% of phosphatic and 25% of potassic fertilizers
+  Saves input cost by
+ ` 1000-3000/ha30. NutMagic
+Effect of NutMagic on groundnut var.TG3A at ICAR-DGR, Junagadh during 2007-08Control Treated
+Contact:Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, 
+Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in
+ 
+31
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Pseudomonas putida 
+DAPG2, Pseudomonas putida DAPG4, Pseudomonas 
+putida FP86 and Pseudomonas fluorescens FP98
+ y Type: Carrier based formulation; 1 × 107 cfu/g of 
+each; Liquid formulation; 1 × 108 cfu/mL of each
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crops: Groundnut
+ y Method of application: Carrier based: 4 g of formulation to be suspended in 50 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut kernel
+ y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, Maharashtra, Telangana, Tamil Nadu, Rajasthan, Odisha, West Bengal, NEH region, Madhya Pradesh and Uttar Pradesh
+ y Validation: ICAR-DGR, Junagadh and farmers’ fields, Junagadh for three years; AICRP on Groundnut centres for three years
+ y commercialization: Available for licensing
+ y Benefits: 
+  Improves pod yield of groundnut by 21%
+  Reduces incidence of collar- and stem- rot by 60%
+  Improves availability of macro- and micro-nutrients (P , K, Mn, Fe, Zn, etc.) by 20-25% 
+  Controls nematodes in soil 
+  Saves upto 30% of P , K, Zn, Fe
+  Saves input cost by
+ ` 1500-2500/ha31. NutGrow
+Effect of NutGrow on groundnut var. GG20 at ICAR-DGR, Junagadh during 2011Control Treated
+Contact:Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, 
+Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in
+ 32
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus firmus J22
+ y Type: Carrier based formulation; 1 × 107 cfu/g; Liquid 
+formulation; 1 × 109 cfu/mL
+ y Shelf life: 24 months at 25°C to 35°C 
+ y Target crops: Groundnut, pigeon pea, cotton and soybean
+ y Method of application: Carrier based: 4 g of formulation 
+to be suspended in 50 mL of water along with 5 g of 
+sugarcane jaggery and then mixed with one kilogram 
+of groundnut kernel; Liquid: 10 mL of bioformulation 
+diluted with 40 mL of water along with 5 g of sugarcane jaggery and then mixed with one kilogram of groundnut 
+kernel
+ y Target agroecological zones/states: Gujarat, Andhra Pradesh, Karnataka, Maharashtra, Telangana, Tamil 
+Nadu, Rajasthan, Odisha, West Bengal, NEH region, Madhya Pradesh and Uttar Pradesh
+ y Validation: On groundnut at ICAR-DGR, Junagadh and farmers’ fields, Junagadh (Gujarat), Anantapur and Kalyandurga (Andhra Pradesh), Hiriyur (Karnataka); 
+on soybean at ICAR-IISR, Indore; on pigeon pea at ICAR-IIPR, Kanpur; on cotton 
+and groundnut at CCSRI, Mandvi, Bhuj; on groundnut under rainfed conditions at AICRP-Groundnut centres for three years
+ y commercialization: Available for licensing
+ y Benefits:
+  Saves 30-40% irrigation water, can give pod yield of 2200-2300 kg/ha with 3-4 
+less protective irrigations in summer groundnut
+  Under rainfed condition, alleviates drought stress and improves pod yield 
+upto 32% 
+  Alleviates drought stress in soybean and pigeon pea and improves yield upto 
+20%32. DroughtGuard
+ Effect of DroughtGuard on groundnut var. TG37A at ICAR-DGR, Junagadh during 2015-16Control Treated
+Contact:
+Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, 
+Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in  33
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituents: Bacillus firmus  J22N and Bacillus 
+subtilis  REN51N
+ y Type: Carrier based formulation; 1 × 107 cfu/g of each; 
+Liquid formulation; 1 × 109 cfu/mL of each
+ y Shelf life: 24 months at 25°C to 35°C 
+ y Target crops: Groundnut
+ y Method of application: Carrier based: 4 g of formulation 
+to be suspended in 50 mL of water along with 5 g of 
+sugarcane jaggery and then mixed with one kilogram of groundnut kernel; Liquid: 10 mL of bioformulation 
+diluted with 40 mL of water along with 5 g of sugarcane 
+jaggery and then mixed with one kilogram of groundnut 
+kernel
+ y Target agroecological zones/states: Kachchh, Porbandar, 
+Junagadh, Dwarka, Gir-Somnath and Surendranagar districts of Gujarat
+ y Validation: Experimental and farmers’ fields at Bhuj, Gujarat
+ y commercialization: Available for licensing
+ y Benefits :
+  Alleviates salinity stress and improves pod yield upto 18% and haulm yield upto 6%
+  Increases net return by
+ ` 15000-16000/-33. SalGuard
+Effect of SalGuard on groundnut var. TG37A and GG2 at RRS of ICAR-CAZRI, 
+Kukma, Bhuj during 2014-15Control Treated
+Contact:Director, ICAR-Directorate of Groundnut Research, Ivnagar Road, PB No. 5, 
+Junagadh-362001, Gujarat; e-Mail: director.dgr@icar.gov.in
+ 34
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Metabolic 
+product of a Rhizobium sp. (NCIM 5599)
+ y Type: Gel based
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crops: Sorghum, soybean, maize, 
+brinjal, onion and fenugreek
+ y Method of application: Foliar spray (50 
+mL/m2); drip-irrigation system (5-10 kg/
+ha); seed-treatment/seed-coating (10 g/kg); soil drenching (5-10 kg/ha)
+ y Target agroecological zones/states: Maharashtra
+ y Validation: On sorghum, soybean, maize, brinjal, onion and fenugreek at ICAR-
+NIASM, Baramati, Maharashtra
+ y commercialization: Available for licensing
+ y Benefits:
+  Induce rhizosphere colonization by different beneficial microbes such as nitrogen fixers, siderophore producers, and exopolysaccharides producers
+  Promote nodulation in soybean34. Fytoprost
+Effect of Fytoprost on turmeric at ICAR-NIASM, Baramati during 2018-19Control Treated
+Contact:Director, ICAR- National Institute of Abiotic Stress Management, Malegaon, Baramati–413115; e-Mail: director.niasm@icar.gov.in 35
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus 
+methylotrophicus STC-4 
+(NAIMCC-B-01890)
+ y Type: Carrier based formulation;  
+1 × 108 cfu/g
+ y Shelf life: 24 months at 25°C to 35°C 
+ y Target crops: Rice, black pepper, fruits, and plantation crop nurseries
+ y Method of application: Rice: Seed treatment at 40 g/kg seed; Nursery application at 50 g/m
+2 by pouring the water suspension at 7 and 14 days after sowing; Vegetables: 
+Soil application at 50 g/m2 in nursery and at 1.0 g/plant (suspend 1 kg in 50 L water 
+and pour 50 mL/plant) while planting or within a week of planting; Black pepper: Soil application at 5 g/cutting in nursery and 50 g/plant while planting
+ y Target agroecological zones/states: Goa, Coastal Maharashtra, Coastal Karnataka and Kerala
+ y Validation: On rice, vegetable crops and black pepper at ICAR-CCARI, Goa for three years
+ y commercialization: Commercialized in 2019; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y cost:
+ ` 300/- per kg
+ y Benefits: 
+  Better nutrient mineralization, alleviation of salinity stress, better crop establishment and improved plant growth parameters, yield and soil biological activity
+  12% increase in grain yield in rice
+  Reduced incidence of soil borne diseases in vegetable crops (40-60%) and  foot rot in black pepper (70-80%)35. GoaBio-1
+Effect of GoaBio-1 on a) Pepper var. Paniyur-1 at Chorao, Goa b) Chilli var.  Nisha at Sangolda, 
+Goa during 2016-17Control Control Treated Treated
+a b
+Contact:Director, ICAR-Central Coastal Agricultural Research Institute, Old Goa-403402, Goa; e-Mail: director.ccari@icar.gov.in36
+Icar TechnologIes: B Iofer TIlIzers y Microbial constituent: Bacillus 
+methylotrophicus RCh6-2b 
+(NAIMCC-B-01889)
+ y Type: Carrier based formulation;  
+1 × 108 cfu/g
+ y Shelf life: 24 months at 25°C to 35°C 
+ y Target crops: Brinjal, tomato, chilli, cucumber, black pepper, fruit and plantation crops nurseries
+ y Method of application: Vegetables: Soil application at 50 g/m
+2 in nursery and at 
+1.0 g/plant (suspend 1 kg in 50  L water and pour 50 mL/plant) while planting or within a week of planting; Black pepper: Soil application at 5 g/cutting in nursery and at 50 g/plant while planting
+ y Target agroecological zones/states: Goa, Coastal Maharashtra, Coastal Karnataka 
+and Kerala
+ y Validation: On brinjal, tomato, chilli and black pepper at ICAR- CCARI, Goa and 
+under farmers’ fields at Goa for three years
+ y commercialization: Commercialized in 2019; Available for licensing through 
+Agrinnovate India Ltd. (www.agrinnovateindia.co.in)
+ y Benefits: 
+  Improved plant growth parameters, plant health and yield 
+  Reduced soil borne disease incidences in brinjal (70-80% bacterial wilt), chilli (40-60% wilt and root rot) and black pepper (70-80% foot rot)
+ y cost: 
+` 300/- per kg36. GoaBio-2
+Effect of Goa Bio-2 on brinjal var. Agassaim at ICAR-CCARI, Goa during 2016-17Control Treated
+Contact:Director, ICAR-Central Coastal Agricultural Research Institute, Old Goa-403402, Goa; e-Mail: director.ccari@icar.gov.in37
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter chroococcum 
+Avi2 (MCC 3432)
+ y Type: Liquid formulation; 1 × 109 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crop: Rice
+ y Method of application: Seedling root dip 
+treatment at 500 mL/ha
+ y Target agroecological zones/states: Odisha
+ y Validation: ICAR-NRRI, Cuttack experimental 
+farm for six years; at farmers’ fields (30 locations) in Odisha
+ y commercialization: Available for licensing
+ y Benefits:
+  Saves 25% of chemical N-fertilizers37. NRRI-EndoN
+Effect of NRRI-EndoN on rice var. Naveen at ICAR-NRRI, Cuttack during 2017-18Control Treated
+Contact:Director, ICAR- National Rice Research Institute, Cuttack-753006, Odisha; e-Mail: director.nrri@icar.gov.in38
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Azotobacter vinelandii 
+SRIAz3 
+ y Type: Liquid formulation; 1 × 109 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crop: Rice
+ y Method of application: : Seedling root dip treatment 
+at 500 mL/ha
+ y Target agroecological zones/states: ICAR-NRRI, 
+Cuttack experimental farm for six years; at farmers’ 
+fields (30 locations) in Odisha 
+ y commercialization: Available for licencing
+ y Benefits:
+  Saves 15-25% of chemical N-fertilizers 38. NRRI-RhizoN
+Evaluation of NRRI-RhizoN on rice var. Naveen at ICAR-NRRI, Cuttack during 2018-19Control Treated
+Contact:
+Director, ICAR- National Rice Research Institute, Cuttack-753006, Odisha; e-Mail: director.nrri@icar.gov.in39
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituent: Bacillus 
+megaterium NBAII EXB53
+ y Type: Carrier based; 1 × 109 cfu/g; 
+Liquid formulations; 1 × 108 cfu/mL
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crops: Chilli, capsicum, tomato, 
+brinjal, cauliflower and cabbage
+ y Method of application: Seed treatment 
+(10 g/kg of seeds or 10 mL/kg of seeds)
+ y Target agroecological zones/states: Karnataka
+ y Validation: On-farm trials at ICAR-NBAIR, Bengaluru and commercial nurseries, 
+Bengaluru
+ y commercialization: Commercialized in 2014; Licensed to Agribiocare, Kottayam, 
+Kerala
+ y Benefits: 
+  Increased seedling vigor index in chilli, capsicum, cabbage, brinjal, cauliflower and tomato39. Shatpada Plant growth Booster
+Effect on chilli var. Bydagi at ICAR-NBAIR, Bengaluru during 2013-14 Control Treated
+Contact:Director, ICAR- National Bureau of Agricultural Insect Resources, Bengaluru-560024; e-Mail: director.nbair@icar.gov.in40
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Bacillus 
+amyloliquefaciens , Lysinibacillus 
+sphaericus  and  Bacillus subtilis
+ y Type: Carrier based formulation; 1 × 107 
+cfu/g of each
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crops: Solanaceous vegetables and 
+flower crops
+ y Method of application: Soil application as bio-enriched FYM; 1 kg to be mixed 
+with 50 kg matured FYM and allowed to get multiplied for one week under shaded field condition with intermittent mixing once in two days; this bio-enriched FYM 
+can be applied in field at 2.5 tonnes/ha; it can be applied throughout cropping 
+season at 20-30 days interval
+ y Target agroecological zones/states: Andaman and Nicobar Islands
+ y Validation: On brinjal and flower crops at ICAR-CIARI, Port Blair, and farmers’ 
+fields at Andaman and Nicobar Islands for three years
+ y commercialization: Available for licensing
+ y Benefits:
+  Promotes growth and yield of brinjal and flower crops
+  Protects plants from bacterial wilt disease40. CIARI-Bioconsortia
+Effect of CIARI-Bioconsortia on brinjal in Andaman and Nicobar Islands during 2015-16Control Treated
+Contact:Director, ICAR-Central Island Agricultural Research Institute, Port Blair-744101, Andaman and Nicobar Islands; e-Mail: director.ciari@icar.gov.in41
+Icar TechnologIes: B Iofer TIlIzers y Microbial c onstituents: Bacillus amyloliquefaciens, 
+Lysinibacillus sphaericus and  Bacillus subtilis
+ y Type: Liquid formulation; 1 × 107 cfu/mL of each
+ y Shelf life: 12 months at 25°C to 35°C 
+ y Target crops: Vegetable crops
+ y Method of application: Seed treatment  at 10 ml/kg 
+seeds; Foliar spray at 5 L/ha at 20-30 days interval
+ y Target agroecological zones/states: Andaman and 
+Nicobar Islands
+ y Validation: On vegetable crops at farmers’ fields of 
+Andaman and Nicobar Islands for three years 
+ y commercialization: Available for licensing
+ y Benefits:
+  Enhances plant growth by uniform seed germination, high seedling vigor and uniform plant growth
+  Also acts as eff ective biocontrol agent against 
+major foliar diseases41. CIARI-GroPro
+Effect of seed treatment with CIARI-GroPro on brinjal in Andaman and Nicobar Islands 
+during 2015-16Control Treated
+Contact:Director, ICAR-Central Island Agricultural Research Institute, Port Blair-744101, Andaman and Nicobar Islands; e-Mail: director.ciari@icar.gov.in
+Notes
