@@ -4,45 +4,27 @@ import json
 import numpy as np
 from pathlib import Path
 from sentence_transformers import SentenceTransformer
-import requests
+from google import genai
 import os
 from dotenv import load_dotenv
 
 # ---------- Page Config ----------
 st.set_page_config(page_title="KrishiSahay 🌾", layout="centered")
 
-# ---------- HF Token Setup ----------
+# ---------- API Key Setup (Cloud + Local Compatible) ----------
 try:
-    hf_token = st.secrets["HF_TOKEN"]
+    api_key = st.secrets["GEMINI_API_KEY"]  # Streamlit Cloud
 except:
-    load_dotenv()
-    hf_token = os.getenv("HF_TOKEN")
+    load_dotenv()  # Local
+    api_key = os.getenv("GEMINI_API_KEY")
 
-if not hf_token:
-    st.error("HuggingFace token not configured.")
+if not api_key:
+    st.error("GEMINI_API_KEY not found. Configure secrets (Cloud) or .env file (Local).")
     st.stop()
 
-# ---------- HuggingFace API Setup ----------
-API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
-headers = {"Authorization": f"Bearer {hf_token}"}
+client = genai.Client(api_key=api_key)
 
-def query_hf(prompt):
-    payload = {
-        "inputs": prompt,
-        "parameters": {
-            "max_new_tokens": 300,
-            "temperature": 0.3
-        }
-    }
-    response = requests.post(API_URL, headers=headers, json=payload)
-    result = response.json()
-    
-    if isinstance(result, list):
-        return result[0]["generated_text"]
-    else:
-        return str(result)
-
-# ---------- Load Embedding Model ----------
+# ---------- Load Models ----------
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 index = faiss.read_index("data/faiss_index/krishi_index.faiss")
 
@@ -57,34 +39,35 @@ for category in chunk_base.iterdir():
             chunks = json.loads(json_file.read_text(encoding="utf-8"))
             all_chunks.extend(chunks)
 
-# ---------- UI Text ----------
-ui_text = {
-    "English": {
-        "title": "🌾 KrishiSahay",
-        "caption": "AI Agricultural Field Assistant",
-        "input": "Ask your farming question..."
-    },
-    "Hindi": {
-        "title": "🌾 कृषि सहायक",
-        "caption": "एआई कृषि सहायक",
-        "input": "अपना कृषि प्रश्न पूछें..."
-    },
-    "Telugu": {
-        "title": "🌾 కృషి సహాయ",
-        "caption": "ఎఐ వ్యవసాయ సహాయకుడు",
-        "input": "మీ వ్యవసాయ ప్రశ్న అడగండి..."
-    }
-}
+# ---------- UI ----------
+st.title("🌾 KrishiSahay")
+st.caption("AI Agricultural Field Assistant")
 
 language = st.selectbox(
-    "Select Language / भाषा चुनें / భాషను ఎంచుకోండి",
+    "Select Language",
     ["English", "Hindi", "Telugu"]
 )
 
-st.title(ui_text[language]["title"])
-st.caption(ui_text[language]["caption"])
+# ---------- Translation Function ----------
+def translate_text(text, target_language):
+    if target_language == "English":
+        return text
 
-# ---------- Chat Memory ----------
+    prompt = f"""
+Translate the following text into {target_language}.
+Return only the translated text.
+
+{text}
+"""
+
+    response = client.models.generate_content(
+        model="gemini-3-flash-preview",
+        contents=prompt
+    )
+
+    return response.text.strip()
+
+# ---------- Session Memory ----------
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -92,9 +75,12 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.write(msg["content"])
 
-query = st.chat_input(ui_text[language]["input"])
+# ---------- Chat Input ----------
+query = st.chat_input("Ask your farming question...")
 
 if query:
+
+    # Show user message
     st.session_state.messages.append({"role": "user", "content": query})
     with st.chat_message("user"):
         st.write(query)
@@ -102,31 +88,45 @@ if query:
     with st.chat_message("assistant"):
         with st.spinner("Thinking... 🌾"):
 
-            # Embed query
-            query_embedding = embed_model.encode([query]).astype("float32")
+            # 🔹 Step 1: Translate user query to English
+            internal_query = translate_text(query, "English")
 
-            # Retrieve knowledge
+            # 🔹 Step 2: Embed translated query
+            query_embedding = embed_model.encode([internal_query]).astype("float32")
+
+            # 🔹 Step 3: Retrieve relevant chunks
             distances, indices = index.search(query_embedding, 3)
             retrieved_text = "\n\n".join([all_chunks[i] for i in indices[0]])
 
+            # 🔹 Step 4: Build grounded prompt
             prompt = f"""
 You are KrishiSahay, a practical agricultural advisor.
 
-Answer in {language}.
-Keep response short (max 6 lines).
-Use simple farmer-friendly language.
+Rules:
+- Short answer (max 6 lines)
+- Simple farmer-friendly language
+- Give practical actions
+- No technical jargon
 
 Use only this knowledge:
 {retrieved_text}
 
 Farmer Question:
-{query}
+{internal_query}
 """
 
-            answer = query_hf(prompt)
+            response = client.models.generate_content(
+                model="gemini-3-flash-preview",
+                contents=prompt
+            )
 
-            st.write(answer)
+            english_answer = response.text.strip()
+
+            # 🔹 Step 5: Translate back to selected language
+            final_answer = translate_text(english_answer, language)
+
+            st.write(final_answer)
 
             st.session_state.messages.append(
-                {"role": "assistant", "content": answer}
+                {"role": "assistant", "content": final_answer}
             )
