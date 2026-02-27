@@ -9,9 +9,23 @@ from dotenv import load_dotenv
 import os
 
 # ---------- Setup ----------
-load_dotenv()
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-
+client = genai.Client(api_key=st.secrets["GEMINI_API_KEY"])
+language = st.selectbox(
+    "Select Language",
+    ["English", "Hindi", "Telugu"]
+)
+def translate_text(text, target_language):
+    if target_language == "English":
+        return text
+    
+    prompt = f"Translate the following text into {target_language}:\n\n{text}"
+    
+    response = client.models.generate_content(
+        model="gemini-3-flash-preview",
+        contents=prompt
+    )
+    
+    return response.text
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 index = faiss.read_index("data/faiss_index/krishi_index.faiss")
 
