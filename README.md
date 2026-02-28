@@ -8,7 +8,7 @@ The system uses a Retrieval-Augmented Generation (RAG) architecture to provide g
 
 🚀 Live Demo
 
-
+https://krishisahayy-gjryakncfwuxl9afd7fpmd.streamlit.app/
 
 🌍 Problem Statement
 
