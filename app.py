@@ -24,7 +24,51 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
+# ---------- Multilingual Configuration ----------
+# Define UI text and instructions for each language
+LANGUAGES = {
+    "English": {
+        "title": "KrishiSahay 🌾",
+        "caption": "AI Agricultural Field Assistant",
+        "placeholder": "Ask your farming question...",
+        "instruction": "Answer strictly in English.",
+        "select_lang": "Select Language",
+        "scheme_header": "Government Scheme Advisor",
+        "advice_header": "Agricultural Field Officer"
+    },
+    "हिंदी (Hindi)": {
+        "title": "कृषिसहाय 🌾",
+        "caption": "कृषि क्षेत्र सहायक AI",
+        "placeholder": "अपनी खेती से संबंधित प्रश्न पूछें...",
+        "instruction": "कृपया हिंदी में उत्तर दें।",
+        "select_lang": "भाषा चुनें",
+        "scheme_header": "सरकारी योजना सलाहकार",
+        "advice_header": "कृषि क्षेत्र अधिकारी"
+    },
+    "తెలుగు (Telugu)": {
+        "title": "కృషిసహాయం 🌾",
+        "caption": "AI వ్యావసాయिक ఫీల్డ్ ఎసిస్టెంట్",
+        "placeholder": "మీ వ్యావసాయ ప్రశ्नలు అడుగుపై...",
+        "instruction": "దయచేసి తెలుగులో సమాధానం ఇవ్వండి.",
+        "select_lang": "భాష ఎంచుకోండి",
+        "scheme_header": "Government Scheme Advisor",
+        "advice_header": "Agricultural Field Officer"
+    }
+}
+
+# Crop translations for search filtering
+CROP_TRANSLATIONS = {
+    "wheat": ["wheat", "गेहूं", "గోధుమ"],
+    "rice": ["rice", "चावल", "బియ్యం"],
+    "cotton": ["cotton", "कपास", "పత్తి"],
+    "sugarcane": ["sugarcane", "गन्ना", "చెరుకు"],
+    "paddy": ["paddy", "धान", " వరి"],
+    "maize": ["maize", "मक्का", "మ్కी"],
+    "groundnut": ["groundnut", "मूंगफली", " బఠానी"]
+}
+
 # ---------- Load Embedding Model ----------
+# Supports 50+ languages including Hindi and Telugu
 embed_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 # ---------- Load FAISS Index ----------
@@ -44,18 +88,50 @@ for category in chunk_base.iterdir():
                 all_chunks.append(chunk)
                 all_categories.append(category.name.lower())
 
-# ---------- Crop Detection ----------
+# ---------- Crop Detection (Multilingual) ----------
 def detect_crop(query):
+    query_lower = query.lower()
     crops = list(set(all_categories))
+    
+    # Check English keywords
     for crop in crops:
-        if crop in query.lower():
+        if crop in query_lower:
             return crop
+            
+    # Check translations
+    for eng_crop, translations in CROP_TRANSLATIONS.items():
+        if eng_crop in all_categories:
+            if any(t in query_lower for t in translations):
+                return eng_crop
+                
     return None
 
 # ---------- UI ----------
-st.title("🌾 KrishiSahay")
-st.caption("AI Agricultural Field Assistant")
+# Language Selector at the top
+col1, col2 = st.columns([1, 3])
+with col1:
+    selected_lang = st.selectbox(
+        "Language / భाषा / भाषा",
+        options=list(LANGUAGES.keys()),
+        index=0
+    )
 
+# Get current language settings
+lang = LANGUAGES[selected_lang]
+
+# Apply dynamic Title and Caption
+st.title(lang["title"])
+st.caption(lang["caption"])
+
+# Reset chat if language changes
+if "current_lang" not in st.session_state:
+    st.session_state.current_lang = selected_lang
+elif st.session_state.current_lang != selected_lang:
+    st.session_state.messages = []
+    st.session_state.current_lang = selected_lang
+    st.rerun()
+
+# Display Chat History
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -63,7 +139,8 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.write(msg["content"])
 
-query = st.chat_input("Ask your farming question...")
+# Dynamic Input Placeholder
+query = st.chat_input(lang["placeholder"])
 
 if query:
 
@@ -75,7 +152,7 @@ if query:
     with st.chat_message("assistant"):
         with st.spinner("Thinking... 🌾"):
 
-            # -------- Embed Query --------
+            # -------- Embed Query (Multilingual) --------
             query_embedding = embed_model.encode([query]).astype("float32")
 
             # -------- Crop Detection --------
@@ -86,6 +163,7 @@ if query:
 
             retrieved_chunks = []
 
+            # Filter by crop if detected
             for i in indices[0]:
                 if detected_crop:
                     if all_categories[i] == detected_crop:
@@ -93,24 +171,31 @@ if query:
                 else:
                     retrieved_chunks.append(all_chunks[i])
 
+            # Fallback if not enough chunks found
             if len(retrieved_chunks) < 2:
                 retrieved_chunks = [all_chunks[i] for i in indices[0]]
 
             retrieved_text = "\n\n".join(retrieved_chunks[:4])
 
             # -------- Scheme Intent Detection --------
+            # Keywords in English, Hindi, and Telugu
             scheme_keywords = [
-                "scheme", "subsidy", "loan", "pm kisan",
-                "insurance", "benefit", "eligibility",
-                "government", "yojana"
+                "scheme", "subsidy", "loan", "pm kisan", "insurance", 
+                "benefit", "eligibility", "government", "yojana",
+                "योजना", " subsidy", "malinya", "vaddhu", "vimanam"
             ]
 
             is_scheme_query = any(word in query.lower() for word in scheme_keywords)
 
             # -------- Dynamic Prompt --------
+            lang_instruction = lang["instruction"]
+            header = lang["scheme_header"] if is_scheme_query else lang["advice_header"]
+
             if is_scheme_query:
                 prompt = f"""
-You are an agricultural government scheme advisor.
+You are an agricultural government scheme advisor ({header}).
+
+{lang_instruction}
 
 Answer clearly about schemes, eligibility, benefits and how to apply.
 
@@ -131,7 +216,9 @@ Answer:
 """
             else:
                 prompt = f"""
-You are an experienced agricultural field officer helping farmers.
+You are an experienced agricultural field officer ({header}) helping farmers.
+
+{lang_instruction}
 
 Use the provided knowledge as primary reference.
 You may use general agricultural knowledge if needed.
