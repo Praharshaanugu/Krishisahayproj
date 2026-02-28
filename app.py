@@ -10,7 +10,103 @@ from dotenv import load_dotenv
 
 # ---------- Page Config ----------
 st.set_page_config(page_title="KrishiSahay 🌾", layout="centered")
+st.markdown("""
+<style>
 
+/* ===== Background ===== */
+.stApp {
+    background: linear-gradient(135deg, #f8fff4 0%, #e6f4ea 100%);
+}
+
+/* ===== Main Card ===== */
+.block-container {
+    background-color: white;
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 8px 25px rgba(0, 100, 0, 0.08);
+}
+
+/* ===== GLOBAL FONT SIZE INCREASE ===== */
+html, body, [class*="css"] {
+    font-size: 18px !important;
+    color: #000000 !important;
+}
+
+/* Headings Bigger */
+h1 {
+    font-size: 48px !important;
+    font-weight: 700 !important;
+    color: #1b5e20 !important;
+}
+
+h2, h3 {
+    font-size: 26px !important;
+    color: #1b5e20 !important;
+}
+
+/* Caption */
+p {
+    font-size: 18px !important;
+    color: #000000 !important;
+}
+
+/* ===== TOP GREEN INFO TEXT FIX ===== */
+div[style*="border-left"] {
+    color: #000000 !important;
+    font-size: 19px !important;
+}
+
+/* ===== Chat Bubbles ===== */
+[data-testid="stChatMessage"] {
+    border-radius: 15px;
+    padding: 14px 18px;
+    background-color: #e8f5e9;
+    border: 1px solid #a5d6a7;
+    font-size: 18px !important;
+}
+            /* Ensure paragraphs inside chat are black */
+[data-testid="stChatMessage"] p {
+    color: #000000 !important;
+}
+
+/* Ensure list text black */
+[data-testid="stChatMessage"] li {
+    color: #000000 !important;
+}
+
+/* ===== Input Area ===== */
+textarea {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+    font-size: 18px !important;
+    border-radius: 12px !important;
+    border: 1px solid #66bb6a !important;
+}
+
+/* Placeholder color */
+textarea::placeholder {
+    color: #cccccc !important;
+    font-size: 17px !important;
+}
+
+/* Send button */
+button[kind="secondary"] {
+    background-color: #2e7d32 !important;
+    color: white !important;
+    border-radius: 10px !important;
+}
+
+/* Select box */
+.stSelectbox > div > div {
+    background-color: #f1f8e9;
+    border-radius: 10px;
+    border: 1px solid #66bb6a;
+    font-size: 17px !important;
+    color: #000000 !important;
+}
+
+</style>
+""", unsafe_allow_html=True)
 # ---------- API Key Setup ----------
 try:
     api_key = st.secrets["GEMINI_API_KEY"]
